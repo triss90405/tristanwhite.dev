@@ -1371,7 +1371,7 @@
 	"bowerAbbreviatedPath": "",
 	"displayValue": "tristanwhite.dev",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "harddrive_orange"
+	"iconImageName": "brackets_yellow"
 	},
 "projectSettings": {
 	"alwaysUseExternalServer": 1,
@@ -1516,7 +1516,7 @@
 	"coffeeMinifyOutput": 1,
 	"coffeeOutputStyle": 0,
 	"coffeeSyntaxCheckerStyle": 1,
-	"externalServerAddress": "http:\/\/tw.dev",
+	"externalServerAddress": "http:\/\/tristanwhite.dev",
 	"externalServerPreviewPathAddition": "",
 	"genericWebpageFileExtensionsString": "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp",
 	"hamlAutoOutputPathEnabled": 1,
