@@ -534,17 +534,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/assets\/img\/work\/annettepetersen.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 30870,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/work\/annettepetersen.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/work\/annettepetersen.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/_site\/assets\/img\/work\/gridder.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1294,7 +1283,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 30870,
+		"initialSize": 112527,
 		"inputAbbreviatedPath": "\/assets\/img\/work\/annettepetersen.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/work\/annettepetersen.jpg",
 		"outputPathIsOutsideProject": 0,
