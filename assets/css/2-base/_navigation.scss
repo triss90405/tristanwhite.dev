@@ -1,0 +1,112 @@
+header {
+   background: white;
+   box-shadow: 3px 0px 10px rgba(0,0,0,0.25);
+   width: 200px;
+   height: 100vh;
+   margin: 0px;
+   float: left;
+   position: fixed;
+   top: 0;
+   left: 0;
+   z-index: 201;
+   display: flex;
+   justify-content: space-between;
+   flex-direction: column;
+   @include transition(200ms);
+   @media (max-width: 992px) {
+      left: -200px;
+   }
+   .logo {
+      text-align: center;
+   }
+   nav {
+      position: relative;
+      top: -7%;
+      a {
+         color: $black;
+         display: block;
+         text-align: right;
+         padding-right: 65px;
+         line-height: 3;
+         text-decoration: none;
+         .arrow {
+            height: 1rem;
+            margin-left: 10px;
+         }
+         @media (max-width: 992px) {
+            font-size: 2rem;
+         }
+      }
+   }
+   .contact {
+      a {
+         color: $black;
+         display: block;
+         text-align: right;
+         padding-right: 88px;
+         line-height: 3;
+         text-decoration: none;
+         @media (max-width: 992px) {
+            font-size: 2rem;
+         }
+      }
+   }
+}
+
+// Mobile nav toggle
+.toggle-menu {
+   display: none;
+   float: right;
+   cursor: pointer;
+   position: fixed;
+   top: 10px;
+   left: 10px;
+   z-index: 200;
+   padding: 25px 10px;
+   width: 60px;
+   height: 55px;
+   background: rgba($white,.85);
+   span, span:before, span:after {
+      @include transition(150ms);
+      display: block;
+      height: 3px;
+      width: 40px;
+      background-color: $blue;
+      content: '';
+      position: absolute;
+      &:before {
+         top: -12px;
+      }
+      &:after {
+         bottom: -12px
+      }
+   }
+   &.cross {
+      span, span:before, span:after {
+         @include transition(150ms);
+      }
+      span {
+         background-color: transparent;
+         &:before {
+            top: 0;
+            transform: rotate(45deg);
+         }
+         &:after {
+            bottom: 0;
+            transform: rotate(-45deg);
+         }
+      }
+   }
+   @include transition(0.3s);
+   @media (max-width: 992px) {
+      display: block;
+   }
+}
+
+.toggle-menu-active {
+   left: 210px;
+}
+
+.nav-active {
+   left: 0;
+}

@@ -1,0 +1,72 @@
+.btn {
+   background: darken($white, 15%);
+   color: $white;
+   text-decoration: none;
+   display: inline-block;
+   text-align: center;
+   padding: 10px 15px;
+   margin: 10px 10px 10px 0;
+   cursor: pointer;
+   border-radius: 3px;
+   @include transition(100ms);
+   &.one {
+      background: $white;
+      color: $blue;
+      &:hover {
+         background: darken($white, 10%);
+      }
+   }
+   &.two {
+      background: $red;
+      color: $white;
+      &:hover {
+         background: darken($red, 10%);
+      }
+   }
+   &.three {
+      background: $purple;
+      color: $white;
+      &:hover {
+         background: darken($purple, 10%);
+      }
+   }
+   &.three-and-a-half {
+      background: transparent;
+      border: 3px solid $purple;
+      color: $purple;
+      padding: 7px 13px;
+      &:hover {
+         background: lighten($purple, 45%);
+      }
+   }
+   &.four {
+      background: $turqoise;
+      color: $white;
+      &:hover {
+         background: darken($turqoise, 10%);
+      }
+   }
+   &.five {
+      background: $white;
+      color: $turqoise;
+      &:hover {
+         background: darken($white, 10%);
+      }
+   }
+   &.six {
+      background: $blue;
+      color: white;
+      &:hover {
+         background: darken($blue, 10%);
+      }
+   }
+   &.six-and-a-half {
+      background: transparent;
+      border: 3px solid $blue;
+      color: $blue;
+      padding: 7px 13px;
+      &:hover {
+         background: lighten($blue, 50%);
+      }
+   }
+}

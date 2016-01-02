@@ -1,0 +1,140 @@
+#article-overview {
+   background: darken($white, 4%);
+   @media (max-width: 992px) {
+      padding: 50px 0 0 0;
+   }
+   article {
+      margin: 30px 0;
+      .title {
+         a {
+            font-size: 3rem;
+            text-decoration: none;
+            color: $blue;
+            &:hover {
+               color: darken($blue, 10%);
+               border-bottom: 1px solid darken($blue, 10%);
+            }
+         }
+      }
+      .video-title {
+         text-align: center;
+         font-weight: bold;
+      }
+      .date {
+         font-size: 2rem;
+         font-weight: 500;
+         color: darken($white, 20%);
+      }
+      .excerpt {
+         font-size: 2rem;
+      }
+   }
+}
+
+
+#article {
+   .post-content {
+      margin-top: 100px;
+      p {
+         font-size: 1.7rem;
+      }
+      .quote {
+         display: block;
+         padding: 5px 20px;
+         font-style: italic;
+         font-weight: 400;
+         border-left: 3px solid darken($white, 20%);
+      }
+   }
+   img {
+      max-width: 100%;
+   }
+}
+
+#article.video {
+   background: darken($white, 4%);
+   position: relative;
+   .video-header {
+      background: $red;
+      padding: 50px 0 250px 0;
+      margin: 0 0 50px 0;
+      position: relative;
+      @media (max-width: 992px) {
+         padding: 70px 0 0 0;
+      }
+      .title {
+         color: white;
+      }
+      .time {
+         color: darken($red, 15%);
+         font-size: 2rem;
+      }
+      .date {
+         color: darken($white, 20%);
+         font-weight: 100;
+         font-size: 2rem;
+      }
+      &:after {
+         content: "";
+         width: 0;
+         height: 0;
+         position: absolute;
+         bottom: -100px;
+         left: 0;
+         border-bottom: 100px solid transparent;
+         border-left: calc(100vw - 200px) solid $red;
+         @media (max-width: 992px) {
+            border-left: 100vw solid $red;
+         }
+      }
+   }
+   .post-content {
+      margin-top: -250px;
+      @media (max-width: 992px) {
+         padding: 70px 0 0 0;
+         margin-top: -100px;
+      }
+      .responsive-video {
+         box-shadow: 0 20px 30px rgba(0,0,0,0.4);
+         border-radius: 5px;
+         iframe {
+
+         }
+      }
+   }
+}
+
+#article.post {
+   background: darken($white, 4%);
+
+   .post-header {
+      background: $purple;
+      padding: 50px 0 0 0;
+      margin: 0 0 50px 0;
+      position: relative;
+      @media (max-width: 992px) {
+         padding: 70px 0 0 0;
+      }
+      .title {
+         color: white;
+      }
+      .date {
+         color: darken($white, 20%);
+         font-weight: 100;
+         font-size: 2rem;
+      }
+      &:after {
+         content: "";
+         width: 0;
+         height: 0;
+         position: absolute;
+         bottom: -100px;
+         left: 0;
+         border-bottom: 100px solid transparent;
+         border-left: calc(100vw - 200px) solid $purple;
+         @media (max-width: 992px) {
+            border-left: 100vw solid $purple;
+         }
+      }
+   }
+}

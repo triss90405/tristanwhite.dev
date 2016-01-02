@@ -1,0 +1,67 @@
+section#shop {
+   padding-top: 50px;
+   .item {
+      margin: 25px;
+      padding: 5px 0 20px 0;
+      background: white;
+      border: 1px solid lighten($black, 70%);
+      border-radius: 3px;
+      display: block;
+      position: relative;
+      text-decoration: none;
+      @include transition(150ms);
+      &:hover {
+         box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.30);
+      }
+      .price {
+         background: $turqoise;
+         color: white;
+         position: absolute;
+         top: 15px;
+         right: -10px;
+         padding: 8px;
+         width: 50px;
+         height: 40px;
+         box-shadow: 0px 2px 5px rgba(0,0,0,0.5);
+         &:before {
+            content: "";
+            width: 0;
+            height: 0;
+            border-top: 20px solid transparent;
+            border-bottom: 20px solid transparent;
+            border-right: 20px solid $turqoise;
+            position: absolute;
+            right: 50px;
+            top: 0px;
+         }
+         &:after {
+            content: "";
+            width: 0;
+            height: 0;
+            border-top: 0px solid transparent;
+            border-bottom: 7px solid transparent;
+            border-left: 10px solid darken($turqoise, 15%);
+            position: absolute;
+            right: 0px;
+            bottom: -7px;
+         }
+      }
+      .cover {
+         text-align: center;
+         padding: 20px;
+         img {
+            max-width: 100%;
+         }
+      }
+      .lead {
+         font-size: 2.5rem;
+         text-align: center;
+         color: lighten($black, 50%);
+         font-weight: 100;
+      }
+      .description {
+         padding: 20px;
+         color: lighten($black, 50%);
+      }
+   }
+}
