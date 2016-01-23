@@ -1501,26 +1501,49 @@ section#work {
         border-right: 100vw solid whitesmoke; } }
   section#work h1 {
     text-align: center;
-    color: white; }
-  section#work .work-text {
-    padding: 20px 0; }
-    section#work .work-text h2 {
-      font-size: 2.5rem;
-      font-weight: 400;
-      color: #034e8f;
-      text-transform: uppercase;
-      letter-spacing: 3px;
-      font-size: 1.8rem; }
-    section#work .work-text p {
-      font-size: 1.8rem;
-      font-weight: 400;
-      color: white;
-      line-height: 2; }
-  section#work .work-image {
-    padding: 20px 0; }
-    section#work .work-image img {
+    color: white;
+    margin: 0 0 5rem 0; }
+  section#work .work-item {
+    margin: 1.5rem;
+    padding-bottom: 0;
+    height: 350px;
+    position: relative; }
+    section#work .work-item .overlay {
+      -webkit-transform: scale(0);
+          -ms-transform: scale(0);
+              transform: scale(0);
+      -webkit-transition: all 200ms ease-in-out;
+      transition: all 200ms ease-in-out;
+      position: absolute;
       width: 100%;
-      box-shadow: 6px 6px 5px #02335d; }
+      height: 350px;
+      background: rgba(255, 87, 34, 0.9);
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+          -ms-flex-align: center;
+              align-items: center;
+      -webkit-box-pack: center;
+      -webkit-justify-content: center;
+          -ms-flex-pack: center;
+              justify-content: center;
+      padding: 3rem; }
+      section#work .work-item .overlay p {
+        text-align: center;
+        font-size: 2rem;
+        text-shadow: 2px 2px #bb2d00;
+        color: white; }
+    section#work .work-item:hover .overlay {
+      -webkit-transform: scale(1);
+          -ms-transform: scale(1);
+              transform: scale(1); }
+    section#work .work-item img {
+      max-width: 100%;
+      box-shadow: 0 20px 30px rgba(25, 25, 26, 0.4);
+      height: 350px; }
 
 section#content {
   background: whitesmoke;

@@ -218,69 +218,80 @@ section#about {
 
 // Work Section
 section#work {
-   background-color: $blue;
-   background-image: url('/assets/img/bg3.png');
-   background-repeat: repeat-x repeat-y;
-   background-size: auto;
-   padding: 150px 0;
-   position: relative;
-   @media (max-width: 772px) {
-      text-align: center;
-   }
-   &:before {
-      content: "";
-      width: 0;
-      height: 0;
+  background-color: $blue;
+  background-image: url('/assets/img/bg3.png');
+  background-repeat: repeat-x repeat-y;
+  background-size: auto;
+  padding: 150px 0;
+  position: relative;
+  @media (max-width: 772px) {
+    text-align: center;
+  }
+  &:before {
+    content: "";
+    width: 0;
+    height: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-bottom: 150px solid transparent;
+    border-left: calc(100vw - 200px) solid darken($white, 4%);
+    @media (max-width: 992px) {
+       border-left: 100vw solid darken($white, 4%);
+    }
+  }
+  &:after {
+    content: "";
+    width: 0;
+    height: 0;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    border-top: 100px solid transparent;
+    border-right: calc(100vw - 200px) solid darken($white, 4%);
+    @media (max-width: 992px) {
+       border-right: 100vw solid darken($white, 4%);
+    }
+  }
+  h1 {
+    text-align: center;
+    color: white;
+    margin: 0 0 5rem 0;
+  }
+  .work-item {
+    margin: 1.5rem;
+    padding-bottom: 0;
+    height: 350px;
+    position: relative;
+    .overlay {
+      transform: scale(0);
+      @include transition(200ms);
       position: absolute;
-      top: 0;
-      left: 0;
-      border-bottom: 150px solid transparent;
-      border-left: calc(100vw - 200px) solid darken($white, 4%);
-      @media (max-width: 992px) {
-         border-left: 100vw solid darken($white, 4%);
-      }
-   }
-   &:after {
-      content: "";
-      width: 0;
-      height: 0;
-      position: absolute;
-      bottom: 0;
-      left: 0;
-      border-top: 100px solid transparent;
-      border-right: calc(100vw - 200px) solid darken($white, 4%);
-      @media (max-width: 992px) {
-         border-right: 100vw solid darken($white, 4%);
-      }
-   }
-   h1 {
-      text-align: center;
-      color: white;
-   }
-   .work-text {
-      padding: 20px 0;
-      h2 {
-         font-size: 2.5rem;
-         font-weight: 400;
-         color: darken($blue, 15%);
-         text-transform: uppercase;
-         letter-spacing: 3px;
-         font-size: 1.8rem;
-      }
+      width: 100%;
+      height: 350px;
+      background: rgba($red, 0.9);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 3rem;
       p {
-         font-size: 1.8rem;
-         font-weight: 400;
-         color: white;
-         line-height: 2;
+        text-align: center;
+        font-size: 2rem;
+        text-shadow: 2px 2px darken($red,20%);
+        color: white;
       }
-   }
-   .work-image {
-      padding: 20px 0;
-      img {
-         width: 100%;
-         box-shadow: 6px 6px 5px darken($blue, 25%);
+    }
+    &:hover {
+      .overlay {
+        transform: scale(1);
       }
-   }
+    }
+    img {
+      max-width: 100%;
+      box-shadow: 0 20px 30px rgba($black,0.4);
+      height: 350px;
+    }
+  }
 }
 
 
