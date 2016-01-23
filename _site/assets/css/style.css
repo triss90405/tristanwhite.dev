@@ -1530,7 +1530,8 @@ section#work {
       -webkit-justify-content: center;
           -ms-flex-pack: center;
               justify-content: center;
-      padding: 3rem; }
+      padding: 3rem;
+      border-radius: 3px; }
       section#work .work-item .overlay p {
         text-align: center;
         font-size: 2rem;
@@ -1542,6 +1543,7 @@ section#work {
               transform: scale(1); }
     section#work .work-item img {
       max-width: 100%;
+      border-radius: 3px;
       box-shadow: 0 20px 30px rgba(25, 25, 26, 0.4);
       height: 350px; }
 
