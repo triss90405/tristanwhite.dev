@@ -263,6 +263,9 @@ section#work {
     padding-bottom: 0;
     height: 350px;
     position: relative;
+    @media (max-width: 778px) {
+      height: auto;
+    }
     .overlay {
       transform: scale(0);
       @include transition(200ms);
@@ -275,6 +278,9 @@ section#work {
       justify-content: center;
       padding: 3rem;
       border-radius: 3px;
+      @media (max-width: 778px) {
+         height: 100%;
+      }
       p {
         text-align: center;
         font-size: 2rem;
@@ -288,10 +294,15 @@ section#work {
       }
     }
     img {
-      max-width: 100%;
+      width: 100%;
       border-radius: 3px;
       box-shadow: 0 20px 30px rgba($black,0.4);
       height: 350px;
+      @media (max-width: 778px) {
+         height: auto;
+         width: auto;
+         max-width: 100%;
+      }
     }
   }
 }

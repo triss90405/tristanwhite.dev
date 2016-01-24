@@ -179,6 +179,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/assets\/css\/style.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/assets\/css\/style.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/assets\/css\/style.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -554,6 +563,17 @@
 		"initialSize": 23723,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/work\/gridder.png",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/work\/gridder.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/work\/holmefestuge.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44764,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/work\/holmefestuge.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/work\/holmefestuge.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1352,6 +1372,17 @@
 		"initialSize": 23723,
 		"inputAbbreviatedPath": "\/assets\/img\/work\/gridder.png",
 		"outputAbbreviatedPath": "\/assets\/img\/work\/gridder.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/work\/holmefestuge.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44764,
+		"inputAbbreviatedPath": "\/assets\/img\/work\/holmefestuge.png",
+		"outputAbbreviatedPath": "\/assets\/img\/work\/holmefestuge.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
