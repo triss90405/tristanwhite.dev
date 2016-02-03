@@ -161,6 +161,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/assets\/css\/style.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/assets\/css\/style.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/assets\/css\/style.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -525,61 +534,6 @@
 		"initialSize": 10538,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/products\/wireframe-ui-kit.png",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/products\/wireframe-ui-kit.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/tw_black_1.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 39649,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/tw_black_1.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/tw_black_1.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/tw_black_2.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 117028,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/tw_black_2.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/tw_black_2.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/tw_black_3.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 115975,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/tw_black_3.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/tw_black_3.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/tw_black_4.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 82307,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/tw_black_4.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/tw_black_4.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/tw_black_5.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 228930,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/tw_black_5.png",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/tw_black_5.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1324,72 +1278,6 @@
 		"initialSize": 10538,
 		"inputAbbreviatedPath": "\/assets\/img\/products\/wireframe-ui-kit.png",
 		"outputAbbreviatedPath": "\/assets\/img\/products\/wireframe-ui-kit.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/tw_black_1.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 39649,
-		"inputAbbreviatedPath": "\/assets\/img\/tw_black_1.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/tw_black_1.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/tw_black_2.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 117028,
-		"inputAbbreviatedPath": "\/assets\/img\/tw_black_2.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/tw_black_2.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/tw_black_3.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 115975,
-		"inputAbbreviatedPath": "\/assets\/img\/tw_black_3.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/tw_black_3.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/tw_black_4.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 82307,
-		"inputAbbreviatedPath": "\/assets\/img\/tw_black_4.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/tw_black_4.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/tw_black_5.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 228930,
-		"inputAbbreviatedPath": "\/assets\/img\/tw_black_5.png",
-		"outputAbbreviatedPath": "\/assets\/img\/tw_black_5.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/tw_black_6.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 54255,
-		"inputAbbreviatedPath": "\/assets\/img\/tw_black_6.png",
-		"outputAbbreviatedPath": "\/assets\/img\/tw_black_6.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
