@@ -191,14 +191,28 @@ section#about {
       text-align: center;
    }
    .intro-video {
-      padding: 75px 0;
-      h1 {
+      padding: 0 0 150px 0;
+      hr {
+        margin: 50px 0;
+      }
+      h1, h2 {
         margin-top: 45px;
-         text-align: center;
+        text-align: center;
       }
       p {
          font-size: 2rem;
+         text-align: center;
          color: lighten($black, 40%);
+      }
+      .current {
+        text-align: center;
+        svg {
+          opacity: 0.4;
+          transform: scale(0.7);
+        }
+        p {
+          margin: 5%;
+        }
       }
    }
    &:after {
@@ -289,7 +303,7 @@ section#work {
         top: 50px;
         z-index: 1;
         &:hover {
-          
+
         }
         @media (max-width: 1200px) {
           top: 25px;
