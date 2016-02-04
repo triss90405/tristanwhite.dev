@@ -161,15 +161,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/assets\/css\/style.css": {
-		"fileType": 16,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/assets\/css\/style.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_site\/assets\/css\/style.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -248,6 +239,17 @@
 		"initialSize": 29749,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/bg3.png",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/bg3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5923,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/logo.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/logo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -538,35 +540,79 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/assets\/img\/work\/annettepetersen.jpg": {
-		"fileType": 16384,
+	"\/_site\/assets\/img\/work\/logo_arkdesigndk.png": {
+		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 67961,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/work\/annettepetersen.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/work\/annettepetersen.jpg",
+		"initialSize": 1657,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/work\/logo_arkdesigndk.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/work\/logo_arkdesigndk.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/assets\/img\/work\/gridder.jpg": {
-		"fileType": 16384,
+	"\/_site\/assets\/img\/work\/logo_arkm.png": {
+		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 18733,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/work\/gridder.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/work\/gridder.jpg",
+		"initialSize": 1889,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/work\/logo_arkm.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/work\/logo_arkm.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/assets\/img\/work\/holmefestuge.jpg": {
-		"fileType": 16384,
+	"\/_site\/assets\/img\/work\/logo_holmefestuge.png": {
+		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 15349,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/work\/holmefestuge.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/work\/holmefestuge.jpg",
+		"initialSize": 2134,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/work\/logo_holmefestuge.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/work\/logo_holmefestuge.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/work\/logo_ryghseter.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2737,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/work\/logo_ryghseter.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/work\/logo_ryghseter.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/work\/work-1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37711,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/work\/work-1.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/work\/work-1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/work\/work-2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23448,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/work\/work-2.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/work\/work-2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/work\/work-3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 151296,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/work\/work-3.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/work\/work-3.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -996,6 +1042,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5923,
+		"inputAbbreviatedPath": "\/assets\/img\/logo.png",
+		"outputAbbreviatedPath": "\/assets\/img\/logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/atom-icon.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1282,35 +1339,79 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/work\/annettepetersen.jpg": {
-		"fileType": 16384,
+	"\/assets\/img\/work\/logo_arkdesigndk.png": {
+		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 67961,
-		"inputAbbreviatedPath": "\/assets\/img\/work\/annettepetersen.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/work\/annettepetersen.jpg",
+		"initialSize": 1657,
+		"inputAbbreviatedPath": "\/assets\/img\/work\/logo_arkdesigndk.png",
+		"outputAbbreviatedPath": "\/assets\/img\/work\/logo_arkdesigndk.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/work\/gridder.jpg": {
-		"fileType": 16384,
+	"\/assets\/img\/work\/logo_arkm.png": {
+		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 18733,
-		"inputAbbreviatedPath": "\/assets\/img\/work\/gridder.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/work\/gridder.jpg",
+		"initialSize": 1889,
+		"inputAbbreviatedPath": "\/assets\/img\/work\/logo_arkm.png",
+		"outputAbbreviatedPath": "\/assets\/img\/work\/logo_arkm.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/work\/holmefestuge.jpg": {
-		"fileType": 16384,
+	"\/assets\/img\/work\/logo_holmefestuge.png": {
+		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 15349,
-		"inputAbbreviatedPath": "\/assets\/img\/work\/holmefestuge.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/work\/holmefestuge.jpg",
+		"initialSize": 2134,
+		"inputAbbreviatedPath": "\/assets\/img\/work\/logo_holmefestuge.png",
+		"outputAbbreviatedPath": "\/assets\/img\/work\/logo_holmefestuge.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/work\/logo_ryghseter.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2737,
+		"inputAbbreviatedPath": "\/assets\/img\/work\/logo_ryghseter.png",
+		"outputAbbreviatedPath": "\/assets\/img\/work\/logo_ryghseter.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/work\/work-1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37711,
+		"inputAbbreviatedPath": "\/assets\/img\/work\/work-1.png",
+		"outputAbbreviatedPath": "\/assets\/img\/work\/work-1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/work\/work-2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23448,
+		"inputAbbreviatedPath": "\/assets\/img\/work\/work-2.png",
+		"outputAbbreviatedPath": "\/assets\/img\/work\/work-2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/work\/work-3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 151296,
+		"inputAbbreviatedPath": "\/assets\/img\/work\/work-3.png",
+		"outputAbbreviatedPath": "\/assets\/img\/work\/work-3.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

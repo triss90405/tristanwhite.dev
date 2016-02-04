@@ -223,10 +223,11 @@ section#work {
   background-image: url('/assets/img/bg3.png');
   background-repeat: repeat-x repeat-y;
   background-size: auto;
-  padding: 250px 0;
+  padding: 200px 0;
   position: relative;
   @media (max-width: 772px) {
     text-align: center;
+
   }
   &:before {
     content: "";
@@ -254,52 +255,78 @@ section#work {
        border-right: 100vw solid darken($white, 4%);
     }
   }
+  img.client-logo {
+    max-width: 100%;
+    padding: 10%;
+    margin: 0 auto;
+    @media (max-width: 992px) {
+       padding: 10px 0;
+    }
+  }
   h1 {
     text-align: center;
     color: white;
     margin: 0 0 5rem 0;
   }
-  .work-item {
-    margin: 1rem;
-    padding-bottom: 0;
+  .showcase {
     position: relative;
-    @media (max-width: 778px) {
-      height: auto;
+    height: 450px;
+    @media (max-width: 992px) {
+       height: 650px;
     }
-    .overlay {
-      transform: scale(0);
-      @include transition(200ms);
+    @media (max-width: 610px) {
+       height: 500px;
+    }
+    @media (max-width: 400px) {
+       height: 420px;
+    }
+    .work-item {
+      width: 55%;
       position: absolute;
-      width: 100%;
-      height: calc(100% - 7px);
-      background: rgba($red, 0.9);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      padding: 3rem;
-      @media (max-width: 778px) {
-         height: 100%;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.7);
+      @include transition(200ms);
+      &.left, &.right {
+        top: 50px;
+        z-index: 1;
+        &:hover {
+          
+        }
+        @media (max-width: 1200px) {
+          top: 25px;
+        }
+        @media (max-width: 992px) {
+           width: 100%;
+        }
       }
-      p {
-        text-align: center;
-        font-size: 2rem;
-        text-shadow: 2px 2px darken($red,20%);
-        color: white;
+      &.left {
+        left: 0;
+        @media (max-width: 992px) {
+          z-index: 2;
+          top: 100px;
+        }
       }
-    }
-    &:hover {
-      .overlay {
-        transform: scale(1);
+      &.right {
+        right: 0;
+        @media (max-width: 992px) {
+           top: 200px;
+           z-index: 1;
+        }
       }
-    }
-    img {
-      width: 100%;
-      // border-radius: 3px;
-      box-shadow: 0 20px 30px rgba($black,0.4);
-      @media (max-width: 778px) {
-         height: auto;
-         width: auto;
-         max-width: 100%;
+      &.center {
+        left: 50%;
+        width: 700px;
+        margin-left: -350px;
+        z-index: 2;
+        @media (max-width: 1200px) {
+          width: 500px;
+          margin-left: -250px;
+        }
+        @media (max-width: 992px) {
+           width: 100%;
+           margin-left: 0px;
+           left: 0%;
+           z-index: 3;
+        }
       }
     }
   }

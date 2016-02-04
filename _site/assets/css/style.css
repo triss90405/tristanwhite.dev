@@ -1471,7 +1471,7 @@ section#work {
   background-image: url("/assets/img/bg3.png");
   background-repeat: repeat-x repeat-y;
   background-size: auto;
-  padding: 250px 0;
+  padding: 200px 0;
   position: relative; }
   @media (max-width: 772px) {
     section#work {
@@ -1500,60 +1500,71 @@ section#work {
     @media (max-width: 992px) {
       section#work:after {
         border-right: 100vw solid whitesmoke; } }
+  section#work img.client-logo {
+    max-width: 100%;
+    padding: 10%;
+    margin: 0 auto; }
+    @media (max-width: 992px) {
+      section#work img.client-logo {
+        padding: 10px 0; } }
   section#work h1 {
     text-align: center;
     color: white;
     margin: 0 0 5rem 0; }
-  section#work .work-item {
-    margin: 1rem;
-    padding-bottom: 0;
-    position: relative; }
-    @media (max-width: 778px) {
-      section#work .work-item {
-        height: auto; } }
-    section#work .work-item .overlay {
-      -webkit-transform: scale(0);
-          -ms-transform: scale(0);
-              transform: scale(0);
-      -webkit-transition: all 200ms ease-in-out;
-      transition: all 200ms ease-in-out;
+  section#work .showcase {
+    position: relative;
+    height: 450px; }
+    @media (max-width: 992px) {
+      section#work .showcase {
+        height: 650px; } }
+    @media (max-width: 610px) {
+      section#work .showcase {
+        height: 500px; } }
+    @media (max-width: 400px) {
+      section#work .showcase {
+        height: 420px; } }
+    section#work .showcase .work-item {
+      width: 55%;
       position: absolute;
-      width: 100%;
-      height: calc(100% - 7px);
-      background: rgba(255, 87, 34, 0.9);
-      display: -webkit-box;
-      display: -webkit-flex;
-      display: -ms-flexbox;
-      display: flex;
-      -webkit-box-align: center;
-      -webkit-align-items: center;
-          -ms-flex-align: center;
-              align-items: center;
-      -webkit-box-pack: center;
-      -webkit-justify-content: center;
-          -ms-flex-pack: center;
-              justify-content: center;
-      padding: 3rem; }
-      @media (max-width: 778px) {
-        section#work .work-item .overlay {
-          height: 100%; } }
-      section#work .work-item .overlay p {
-        text-align: center;
-        font-size: 2rem;
-        text-shadow: 2px 2px #bb2d00;
-        color: white; }
-    section#work .work-item:hover .overlay {
-      -webkit-transform: scale(1);
-          -ms-transform: scale(1);
-              transform: scale(1); }
-    section#work .work-item img {
-      width: 100%;
-      box-shadow: 0 20px 30px rgba(25, 25, 26, 0.4); }
-      @media (max-width: 778px) {
-        section#work .work-item img {
-          height: auto;
-          width: auto;
-          max-width: 100%; } }
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.7);
+      -webkit-transition: all 200ms ease-in-out;
+      transition: all 200ms ease-in-out; }
+      section#work .showcase .work-item.left, section#work .showcase .work-item.right {
+        top: 50px;
+        z-index: 1; }
+        @media (max-width: 1200px) {
+          section#work .showcase .work-item.left, section#work .showcase .work-item.right {
+            top: 25px; } }
+        @media (max-width: 992px) {
+          section#work .showcase .work-item.left, section#work .showcase .work-item.right {
+            width: 100%; } }
+      section#work .showcase .work-item.left {
+        left: 0; }
+        @media (max-width: 992px) {
+          section#work .showcase .work-item.left {
+            z-index: 2;
+            top: 100px; } }
+      section#work .showcase .work-item.right {
+        right: 0; }
+        @media (max-width: 992px) {
+          section#work .showcase .work-item.right {
+            top: 200px;
+            z-index: 1; } }
+      section#work .showcase .work-item.center {
+        left: 50%;
+        width: 700px;
+        margin-left: -350px;
+        z-index: 2; }
+        @media (max-width: 1200px) {
+          section#work .showcase .work-item.center {
+            width: 500px;
+            margin-left: -250px; } }
+        @media (max-width: 992px) {
+          section#work .showcase .work-item.center {
+            width: 100%;
+            margin-left: 0px;
+            left: 0%;
+            z-index: 3; } }
 
 section#content {
   background: whitesmoke;
