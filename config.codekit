@@ -161,6 +161,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/assets\/css\/style.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/assets\/css\/style.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/assets\/css\/style.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -239,17 +248,6 @@
 		"initialSize": 29749,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/bg3.png",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/bg3.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/logo.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 5923,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/logo.png",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/logo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1038,17 +1036,6 @@
 		"initialSize": 29749,
 		"inputAbbreviatedPath": "\/assets\/img\/bg3.png",
 		"outputAbbreviatedPath": "\/assets\/img\/bg3.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/logo.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 5923,
-		"inputAbbreviatedPath": "\/assets\/img\/logo.png",
-		"outputAbbreviatedPath": "\/assets\/img\/logo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
