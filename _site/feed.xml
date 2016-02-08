@@ -6,8 +6,8 @@
 </description>
     <link>//tristanwhite.info//</link>
     <atom:link href="//tristanwhite.info//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 08 Feb 2016 14:50:00 +0100</pubDate>
-    <lastBuildDate>Mon, 08 Feb 2016 14:50:00 +0100</lastBuildDate>
+    <pubDate>Mon, 08 Feb 2016 15:41:08 +0100</pubDate>
+    <lastBuildDate>Mon, 08 Feb 2016 15:41:08 +0100</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
     
       <item>
@@ -106,6 +106,144 @@
       </item>
     
       <item>
+        <title>Quick Code - Responsive Navigation</title>
+        <description>&lt;div class=&quot;responsive-video&quot;&gt;
+   &lt;iframe src=&quot;https://www.youtube.com/embed/CIPW6o5RHLQ&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;the-code&quot;&gt;The code&lt;/h3&gt;
+
+&lt;p data-height=&quot;458&quot; data-theme-id=&quot;16012&quot; data-slug-hash=&quot;VebpWG&quot; data-default-tab=&quot;result&quot; data-user=&quot;triss90&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;http://codepen.io/triss90/pen/VebpWG/&quot;&gt;Responsive Navigation&lt;/a&gt; by Tristan Oliver Mose Jensen White (&lt;a href=&quot;http://codepen.io/triss90&quot;&gt;@triss90&lt;/a&gt;) on &lt;a href=&quot;http://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
+&lt;script async=&quot;&quot; src=&quot;//assets.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;
+
+</description>
+        <pubDate>Thu, 26 Nov 2015 10:33:27 +0100</pubDate>
+        <link>//tristanwhite.info//video/2015/11/26/responsive-navigation.html</link>
+        <guid isPermaLink="true">//tristanwhite.info//video/2015/11/26/responsive-navigation.html</guid>
+        
+        
+        <category>video</category>
+        
+      </item>
+    
+      <item>
+        <title>Quick Code - Price Table</title>
+        <description>&lt;div class=&quot;responsive-video&quot;&gt;
+   &lt;iframe src=&quot;https://www.youtube.com/embed/CIPW6o5RHLQ&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;the-code&quot;&gt;The code&lt;/h3&gt;
+
+&lt;p data-height=&quot;710&quot; data-theme-id=&quot;16012&quot; data-slug-hash=&quot;wMKmWr&quot; data-default-tab=&quot;result&quot; data-user=&quot;triss90&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;http://codepen.io/triss90/pen/wMKmWr/&quot;&gt;Price table&lt;/a&gt; by Tristan Oliver Mose Jensen White (&lt;a href=&quot;http://codepen.io/triss90&quot;&gt;@triss90&lt;/a&gt;) on &lt;a href=&quot;http://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
+&lt;script async=&quot;&quot; src=&quot;//assets.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;
+
+</description>
+        <pubDate>Thu, 26 Nov 2015 10:33:27 +0100</pubDate>
+        <link>//tristanwhite.info//video/2015/11/26/quick-code-price-table.html</link>
+        <guid isPermaLink="true">//tristanwhite.info//video/2015/11/26/quick-code-price-table.html</guid>
+        
+        
+        <category>video</category>
+        
+      </item>
+    
+      <item>
+        <title>Quick Code - iOS Toggle Switch</title>
+        <description>&lt;div class=&quot;responsive-video&quot;&gt;
+   &lt;iframe src=&quot;https://www.youtube.com/embed/68Lntu0Ts_I&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;the-code&quot;&gt;The code&lt;/h3&gt;
+
+&lt;p data-height=&quot;240&quot; data-theme-id=&quot;16012&quot; data-slug-hash=&quot;eJzOdz&quot; data-default-tab=&quot;result&quot; data-user=&quot;triss90&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;http://codepen.io/triss90/pen/eJzOdz/&quot;&gt;iOS Toggle Switch&lt;/a&gt; by Tristan Oliver Mose Jensen White (&lt;a href=&quot;http://codepen.io/triss90&quot;&gt;@triss90&lt;/a&gt;) on &lt;a href=&quot;http://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
+&lt;script async=&quot;&quot; src=&quot;//assets.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;
+
+</description>
+        <pubDate>Thu, 26 Nov 2015 10:33:27 +0100</pubDate>
+        <link>//tristanwhite.info//video/2015/11/26/quick-code-ios-toggle-switch.html</link>
+        <guid isPermaLink="true">//tristanwhite.info//video/2015/11/26/quick-code-ios-toggle-switch.html</guid>
+        
+        
+        <category>video</category>
+        
+      </item>
+    
+      <item>
+        <title>Quick Code - CSS Timeline</title>
+        <description>&lt;div class=&quot;responsive-video&quot;&gt;
+   &lt;iframe src=&quot;https://www.youtube.com/embed/3qNgNs_ziJk&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;the-code&quot;&gt;The code&lt;/h3&gt;
+
+&lt;p data-height=&quot;350&quot; data-theme-id=&quot;16012&quot; data-slug-hash=&quot;RraEmM&quot; data-default-tab=&quot;result&quot; data-user=&quot;triss90&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;http://codepen.io/triss90/pen/RraEmM/&quot;&gt;CSS Timeline&lt;/a&gt; by Tristan Oliver Mose Jensen White (&lt;a href=&quot;http://codepen.io/triss90&quot;&gt;@triss90&lt;/a&gt;) on &lt;a href=&quot;http://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
+&lt;script async=&quot;&quot; src=&quot;//assets.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;
+
+</description>
+        <pubDate>Thu, 26 Nov 2015 10:33:27 +0100</pubDate>
+        <link>//tristanwhite.info//video/2015/11/26/quick-code-css-timeline.html</link>
+        <guid isPermaLink="true">//tristanwhite.info//video/2015/11/26/quick-code-css-timeline.html</guid>
+        
+        
+        <category>video</category>
+        
+      </item>
+    
+      <item>
+        <title>Quick Code - Bouncy Buttons</title>
+        <description>&lt;div class=&quot;responsive-video&quot;&gt;
+   &lt;iframe src=&quot;https://www.youtube.com/embed/8IBHP8wXSwI&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;the-code&quot;&gt;The code&lt;/h3&gt;
+
+&lt;p data-height=&quot;268&quot; data-theme-id=&quot;16012&quot; data-slug-hash=&quot;rObrNK&quot; data-default-tab=&quot;result&quot; data-user=&quot;triss90&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;http://codepen.io/triss90/pen/rObrNK/&quot;&gt;Bouncy buttons&lt;/a&gt; by Tristan Oliver Mose Jensen White (&lt;a href=&quot;http://codepen.io/triss90&quot;&gt;@triss90&lt;/a&gt;) on &lt;a href=&quot;http://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
+&lt;script async=&quot;&quot; src=&quot;//assets.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;
+
+</description>
+        <pubDate>Thu, 26 Nov 2015 10:33:27 +0100</pubDate>
+        <link>//tristanwhite.info//video/2015/11/26/quick-code-bouncy-buttons.html</link>
+        <guid isPermaLink="true">//tristanwhite.info//video/2015/11/26/quick-code-bouncy-buttons.html</guid>
+        
+        
+        <category>video</category>
+        
+      </item>
+    
+      <item>
+        <title>Quick Code - Animated Burger Menu</title>
+        <description>&lt;div class=&quot;responsive-video&quot;&gt;
+   &lt;iframe src=&quot;https://www.youtube.com/embed/gcurJ2Gogzk&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;the-code&quot;&gt;The code&lt;/h3&gt;
+
+&lt;p data-height=&quot;268&quot; data-theme-id=&quot;16012&quot; data-slug-hash=&quot;zrBqeP&quot; data-default-tab=&quot;result&quot; data-user=&quot;triss90&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;http://codepen.io/triss90/pen/zrBqeP/&quot;&gt;Animated Burger Menu&lt;/a&gt; by Tristan Oliver Mose Jensen White (&lt;a href=&quot;http://codepen.io/triss90&quot;&gt;@triss90&lt;/a&gt;) on &lt;a href=&quot;http://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
+&lt;script async=&quot;&quot; src=&quot;//assets.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;
+
+</description>
+        <pubDate>Thu, 26 Nov 2015 10:33:27 +0100</pubDate>
+        <link>//tristanwhite.info//video/2015/11/26/quick-code-animated-burger-menu.html</link>
+        <guid isPermaLink="true">//tristanwhite.info//video/2015/11/26/quick-code-animated-burger-menu.html</guid>
+        
+        
+        <category>video</category>
+        
+      </item>
+    
+      <item>
         <title>Quick Code - CSS Heart</title>
         <description>&lt;div class=&quot;responsive-video&quot;&gt;
    &lt;iframe src=&quot;https://www.youtube.com/embed/D6wu65ucAkY&quot;&gt;&lt;/iframe&gt;
@@ -127,363 +265,6 @@
         <category>videos</category>
         
         <category>video</category>
-        
-      </item>
-    
-      <item>
-        <title>Sass Mixin Grid system</title>
-        <description>&lt;p&gt;Regular CSS grid systems have many upsides, but certainly a few downsides as well. One of the bigger downsides is that you often end up with one &lt;code&gt;div&lt;/code&gt; with a ton of class. This makes the markup clumsy and unreadable! To combat this I’ve made a SCSS Mixin grid system. It’s modular, simple and incredibly easy to use.&lt;/p&gt;
-
-&lt;p&gt;To use the grid system you’ll need to use two separate Mixins. One for the container and one for every grid item.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-container-mixin&quot;&gt;The container Mixin&lt;/h3&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-scss&quot; data-lang=&quot;scss&quot;&gt;&lt;span class=&quot;k&quot;&gt;@mixin&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;row&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;nl&quot;&gt;font-size&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;nl&quot;&gt;box-sizing&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;border-box&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;nl&quot;&gt;padding&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;10px&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;10px&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;nl&quot;&gt;max-width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;1200px&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;nl&quot;&gt;margin&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;auto&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;@media&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;only&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;screen&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;and&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;min-width&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;750px&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;padding&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;10%&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;10%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;@media&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;only&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;screen&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;and&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;min-width&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;975px&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;padding&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;5%&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;5%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;@media&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;only&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;screen&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;and&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;min-width&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;1200px&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;padding&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;h4 id=&quot;how-to-use&quot;&gt;How to use&lt;/h4&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;nc&quot;&gt;.wrapper&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;err&quot;&gt;@include&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;row();&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;This Mixin takes no values. It simply sets the size and position of the container, and makes sure that it’ll adapt to different screen sizes. It saves&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;the-grid-item&quot;&gt;The grid Item&lt;/h3&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-scss&quot; data-lang=&quot;scss&quot;&gt;&lt;span class=&quot;k&quot;&gt;@mixin&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;col&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$col&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$sum&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$gap&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;1em&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$align&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;top&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;nl&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;nl&quot;&gt;font-size&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;16px&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;nl&quot;&gt;display&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;inline-block&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;nl&quot;&gt;vertical-align&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$align&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;nl&quot;&gt;box-sizing&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;border-box&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;nl&quot;&gt;padding-left&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$gap&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;nl&quot;&gt;padding-right&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$gap&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;  
-  &lt;span class=&quot;k&quot;&gt;@media&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;only&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;screen&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;and&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;min-width&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;750px&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;percentage&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$col&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$sum&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;vertical-align&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$align&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;The grid Mixin is vastly more exiting. It takes 4 paramaters:&lt;/p&gt;
-&lt;ol&gt;
-   &lt;li&gt;$col - The amount of columns you want this grid item to take up&lt;/li&gt;
-   &lt;li&gt;$sum - The total amount of columns in your grid (12 is a good number)&lt;/li&gt;
-   &lt;li&gt;$gap - The left and right padding. The standard is &lt;code&gt;1em&lt;/code&gt;&lt;/li&gt;
-   &lt;li&gt;$align - The vertical alignment of the item&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;You can easily modify the Mixin, for example to add additional breakpoints to modify the grid.&lt;/p&gt;
-
-&lt;h4 id=&quot;how-to-use-1&quot;&gt;How to use&lt;/h4&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;nc&quot;&gt;.content&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
- &lt;span class=&quot;err&quot;&gt;@include&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;col(9,12,2em,bottom);&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;nc&quot;&gt;.sidebar&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
- &lt;span class=&quot;err&quot;&gt;@include&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;col(3,12);&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;example&quot;&gt;Example&lt;/h3&gt;
-&lt;p data-height=&quot;450&quot; data-theme-id=&quot;16012&quot; data-slug-hash=&quot;LpozKX&quot; data-default-tab=&quot;result&quot; data-user=&quot;triss90&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;http://codepen.io/triss90/pen/LpozKX/&quot;&gt;SASS Mixin Grid&lt;/a&gt; by Tristan Oliver Mose Jensen White (&lt;a href=&quot;http://codepen.io/triss90&quot;&gt;@triss90&lt;/a&gt;) on &lt;a href=&quot;http://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
-&lt;script async=&quot;&quot; src=&quot;//assets.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;
-
-</description>
-        <pubDate>Sun, 15 Nov 2015 10:33:27 +0100</pubDate>
-        <link>//tristanwhite.info//articles/article/2015/11/15/sass-mixin-grid-system.html</link>
-        <guid isPermaLink="true">//tristanwhite.info//articles/article/2015/11/15/sass-mixin-grid-system.html</guid>
-        
-        
-        <category>articles</category>
-        
-        <category>article</category>
-        
-      </item>
-    
-      <item>
-        <title>Sass Mixin Grid System</title>
-        <description>&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;
-	&lt;meta charset=&quot;utf-8&quot;/&gt;
-	&lt;meta name=&quot;layout&quot; content=&quot;post&quot;/&gt;
-	&lt;title&gt;&amp;quot;Sass Mixin Grid system&amp;quot;&lt;/title&gt;
-	&lt;meta name=&quot;date&quot; content=&quot;2015-11-15 10:33:27 +0100&quot;/&gt;
-	&lt;meta name=&quot;categories&quot; content=&quot;article&quot;/&gt;
-&lt;/head&gt;
-&lt;body&gt;
-
-&lt;p&gt;Regular CSS grid systems have many upsides, but certainly a few downsides as well. One of the bigger downsides is that you often end up with one &lt;code&gt;div&lt;/code&gt; with a ton of class. This makes the markup clumsy and unreadable! To combat this I&amp;#8217;ve made a SCSS Mixin grid system. It&amp;#8217;s modular, simple and incredibly easy to use.&lt;/p&gt;
-
-&lt;p&gt;To use the grid system you&amp;#8217;ll need to use two separate Mixins. One for the container and one for every grid item.&lt;/p&gt;
-
-&lt;h3 id=&quot;thecontainermixin&quot;&gt;The container Mixin&lt;/h3&gt;
-
-&lt;p&gt;&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-scss&quot; data-lang=&quot;scss&quot;&gt;&lt;span class=&quot;k&quot;&gt;@mixin&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;row&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
- &lt;span class=&quot;nl&quot;&gt;font-size&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
- &lt;span class=&quot;nl&quot;&gt;box-sizing&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;border-box&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
- &lt;span class=&quot;nl&quot;&gt;padding&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;10px&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;10px&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
- &lt;span class=&quot;nl&quot;&gt;max-width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;1200px&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
- &lt;span class=&quot;nl&quot;&gt;margin&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;auto&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
- &lt;span class=&quot;k&quot;&gt;@media&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;only&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;screen&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;and&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;min-width&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;750px&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
- &lt;span class=&quot;nl&quot;&gt;padding&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;10%&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;10%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
- &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
- &lt;span class=&quot;k&quot;&gt;@media&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;only&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;screen&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;and&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;min-width&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;975px&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
- &lt;span class=&quot;nl&quot;&gt;padding&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;5%&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;5%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
- &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
- &lt;span class=&quot;k&quot;&gt;@media&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;only&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;screen&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;and&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;min-width&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;1200px&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
- &lt;span class=&quot;nl&quot;&gt;padding&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
- &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;howtouse&quot;&gt;How to use&lt;/h4&gt;
-
-&lt;p&gt;&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;nc&quot;&gt;.wrapper&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
- &lt;span class=&quot;err&quot;&gt;@include&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;row();&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;&lt;/p&gt;
-
-&lt;p&gt;This Mixin takes no values. It simply sets the size and position of the container, and makes sure that it&amp;#8217;ll adapt to different screen sizes. It saves&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
-&lt;hr&gt;
-&lt;br&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;thegriditem&quot;&gt;The grid Item&lt;/h3&gt;
-
-&lt;p&gt;&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-scss&quot; data-lang=&quot;scss&quot;&gt;&lt;span class=&quot;k&quot;&gt;@mixin&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;col&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$col&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$sum&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$gap&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;1em&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$align&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;top&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
- &lt;span class=&quot;nl&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
- &lt;span class=&quot;nl&quot;&gt;font-size&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;16px&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
- &lt;span class=&quot;nl&quot;&gt;display&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;inline-block&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
- &lt;span class=&quot;nl&quot;&gt;vertical-align&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$align&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
- &lt;span class=&quot;nl&quot;&gt;box-sizing&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;border-box&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
- &lt;span class=&quot;nl&quot;&gt;padding-left&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$gap&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
- &lt;span class=&quot;nl&quot;&gt;padding-right&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$gap&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;br&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;/&amp;gt;
- @&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;media&lt;/span&gt;&lt;span class=&quot;err&quot;&gt; &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;only&lt;/span&gt;&lt;span class=&quot;err&quot;&gt; &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;screen&lt;/span&gt;&lt;span class=&quot;err&quot;&gt; &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;and&lt;/span&gt;&lt;span class=&quot;err&quot;&gt; (&lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;min-width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;750px&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
- &lt;span class=&quot;nl&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;percentage&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$col&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$sum&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
- &lt;span class=&quot;nl&quot;&gt;vertical-align&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$align&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
- &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;&lt;/p&gt;
-
-&lt;p&gt;The grid Mixin is vastly more exiting. It takes 4 paramaters:
-&lt;ol&gt;
- &lt;li&gt;$col - The amount of columns you want this grid item to take up&lt;/li&gt;
- &lt;li&gt;$sum - The total amount of columns in your grid (12 is a good number)&lt;/li&gt;
- &lt;li&gt;$gap - The left and right padding. The standard is &lt;code&gt;1em&lt;/code&gt;&lt;/li&gt;
- &lt;li&gt;$align - The vertical alignment of the item&lt;/li&gt;
-&lt;/ol&gt;&lt;/p&gt;
-
-&lt;p&gt;You can easily modify the Mixin, for example to add additional breakpoints to modify the grid.&lt;/p&gt;
-
-&lt;h4 id=&quot;howtouse&quot;&gt;How to use&lt;/h4&gt;
-
-&lt;p&gt;&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;nc&quot;&gt;.content&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
- &lt;span class=&quot;err&quot;&gt;@include&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;col(9,12,2em,bottom);&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;nc&quot;&gt;.sidebar&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
- &lt;span class=&quot;err&quot;&gt;@include&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;col(3,12);&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
-&lt;hr&gt;
-&lt;br&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;example&quot;&gt;Example&lt;/h3&gt;
-
-&lt;p data-height=&quot;450&quot; data-theme-id=&quot;16012&quot; data-slug-hash=&quot;LpozKX&quot; data-default-tab=&quot;result&quot; data-user=&quot;triss90&quot; class=&#39;codepen&#39;&gt;See the Pen &lt;a href=&#39;http://codepen.io/triss90/pen/LpozKX/&#39;&gt;SASS Mixin Grid&lt;/a&gt; by Tristan Oliver Mose Jensen White (&lt;a href=&#39;http://codepen.io/triss90&#39;&gt;@triss90&lt;/a&gt;) on &lt;a href=&#39;http://codepen.io&#39;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
-
-&lt;script async src=&quot;//assets.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;
-
-&lt;/body&gt;
-&lt;/html&gt;
-</description>
-        <pubDate>Sun, 15 Nov 2015 00:00:00 +0100</pubDate>
-        <link>//tristanwhite.info//articles/2015/11/15/sass-mixin-grid-system.html</link>
-        <guid isPermaLink="true">//tristanwhite.info//articles/2015/11/15/sass-mixin-grid-system.html</guid>
-        
-        
-        <category>articles</category>
-        
-      </item>
-    
-      <item>
-        <title>Quick Code - CSS 3D Buttons</title>
-        <description>&lt;div class=&quot;responsive-video&quot;&gt;
-   &lt;iframe src=&quot;https://www.youtube.com/embed/V-9fuTrP5AY&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;the-code&quot;&gt;The code&lt;/h3&gt;
-
-&lt;p data-height=&quot;268&quot; data-theme-id=&quot;16012&quot; data-slug-hash=&quot;BovqKQ&quot; data-default-tab=&quot;result&quot; data-user=&quot;triss90&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;http://codepen.io/triss90/pen/BovqKQ/&quot;&gt;CSS 3D Buttons&lt;/a&gt; by Tristan Oliver Mose Jensen White (&lt;a href=&quot;http://codepen.io/triss90&quot;&gt;@triss90&lt;/a&gt;) on &lt;a href=&quot;http://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
-&lt;script async=&quot;&quot; src=&quot;//assets.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;
-
-</description>
-        <pubDate>Fri, 13 Nov 2015 21:12:53 +0100</pubDate>
-        <link>//tristanwhite.info//videos/video/2015/11/13/quick-code-css-3d-buttons.html</link>
-        <guid isPermaLink="true">//tristanwhite.info//videos/video/2015/11/13/quick-code-css-3d-buttons.html</guid>
-        
-        
-        <category>videos</category>
-        
-        <category>video</category>
-        
-      </item>
-    
-      <item>
-        <title>Quick Code - CSS Loadingbar</title>
-        <description>&lt;div class=&quot;responsive-video&quot;&gt;
-   &lt;iframe src=&quot;https://www.youtube.com/embed/DgDg2ddiKIo&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;the-code&quot;&gt;The code&lt;/h3&gt;
-
-&lt;p data-height=&quot;268&quot; data-theme-id=&quot;16012&quot; data-slug-hash=&quot;dYwGJa&quot; data-default-tab=&quot;result&quot; data-user=&quot;triss90&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;http://codepen.io/triss90/pen/dYwGJa/&quot;&gt;CSS Loadingbar&lt;/a&gt; by Tristan Oliver Mose Jensen White (&lt;a href=&quot;http://codepen.io/triss90&quot;&gt;@triss90&lt;/a&gt;) on &lt;a href=&quot;http://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
-&lt;script async=&quot;&quot; src=&quot;//assets.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;
-
-</description>
-        <pubDate>Tue, 10 Nov 2015 10:33:27 +0100</pubDate>
-        <link>//tristanwhite.info//videos/video/2015/11/10/quick-code-css-loadingbar.html</link>
-        <guid isPermaLink="true">//tristanwhite.info//videos/video/2015/11/10/quick-code-css-loadingbar.html</guid>
-        
-        
-        <category>videos</category>
-        
-        <category>video</category>
-        
-      </item>
-    
-      <item>
-        <title>The Tools I Use</title>
-        <description>&lt;p&gt;This article is a brief overview of the tools i use personally and professionally when designing and coding websites and apps.&lt;/p&gt;
-
-&lt;h1&gt;Design&lt;/h1&gt;
-&lt;p&gt;I don’t do a lot of standalone design work. Granted the vast majority of the work I take on, does require some form of design, usually done by me. I’m on MAC and have chosen my software-suit accordingly.&lt;/p&gt;
-
-&lt;div class=&quot;row&quot; style=&quot;background:#ffffff&quot;&gt;
-   &lt;div class=&quot;medium-6&quot; style=&quot;padding: 30px;&quot;&gt;
-      &lt;h3&gt;&lt;img src=&quot;/assets/img/posts/sketch-icon.png&quot; height=&quot;24px&quot; alt=&quot;Sketch&quot; /&gt; Sketch&lt;/h3&gt;
-      &lt;p&gt;Sketch is a MAC only app. I mainly use Sketch to mock up designs, create vector images and icons. It has completely replaced Adobe Illustrator for me. Not only is it an amazing tool to design with. It&#39;s also a lot cheaper than Adobe&#39;s alternative.&lt;/p&gt;
-      &lt;a href=&quot;https://www.sketchapp.com/&quot; class=&quot;btn three&quot; target=&quot;top&quot;&gt;Learn more about Skecth&lt;/a&gt;
-   &lt;/div&gt;
-   &lt;div class=&quot;medium-6&quot; style=&quot;padding: 30px;&quot;&gt;
-      &lt;h3&gt;&lt;img src=&quot;/assets/img/posts/pixelmator-icon.png&quot; height=&quot;30px&quot; alt=&quot;Pixelmator&quot; /&gt; Pixelmator&lt;/h3&gt;
-      &lt;p&gt;Pixelmator is another exclusive MAC app. It&#39;s powerful, fast, and easy to use. I&#39;ve completely switched over from using photoshop, and now exclusively use Pixelmator to process and edit my images.&lt;/p&gt;
-      &lt;a href=&quot;http://www.pixelmator.com/mac/&quot; class=&quot;btn three&quot; target=&quot;top&quot;&gt;Learn more about Pixelmator&lt;/a&gt;
-   &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;row&quot; style=&quot;background:#ffffff&quot;&gt;
-   &lt;div class=&quot;medium-6&quot; style=&quot;padding: 30px;&quot;&gt;
-      &lt;h3&gt;&lt;img src=&quot;/assets/img/posts/tinypng-icon.png&quot; height=&quot;24px&quot; alt=&quot;TinyPNG&quot; /&gt; TinyPNG&lt;/h3&gt;
-      &lt;p&gt;TinyPNG is a smart web-based tool that uses smart compression to reduce the file size of image files. It does so, by reducing the number of colors in a given image. The effect is almost always completely invisible, and usually reduces the file size by 50-70%. I never publish an image before running it through TinyPNG.&lt;/p&gt;
-      &lt;a href=&quot;https://tinypng.com/&quot; class=&quot;btn three&quot; target=&quot;top&quot;&gt;Learn more about TinyPNG&lt;/a&gt;
-   &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h1&gt;Web Development&lt;/h1&gt;
-&lt;p&gt;I use several tools&lt;/p&gt;
-
-&lt;div class=&quot;row&quot; style=&quot;background:#ffffff&quot;&gt;
-   &lt;div class=&quot;medium-6&quot; style=&quot;padding: 30px;&quot;&gt;
-      &lt;h3&gt;&lt;img src=&quot;/assets/img/posts/atom-icon.png&quot; height=&quot;24px&quot; alt=&quot;Atom&quot; /&gt; Atom&lt;/h3&gt;
-      &lt;p&gt;Atom is a text editor developed by the Github-team and thus it has great implementation with Github. It&#39;s leightweight and hackable. It&#39;s a got a growing community and a tons of plugins. In short, it&#39;s slowly becoming my favorite text editor. I find myself using it for more and more projects.&lt;/p&gt;
-      &lt;a href=&quot;https://atom.io/&quot; class=&quot;btn three&quot; target=&quot;top&quot;&gt;Learn more about Atom&lt;/a&gt;
-   &lt;/div&gt;
-   &lt;div class=&quot;medium-6&quot; style=&quot;padding: 30px;&quot;&gt;
-      &lt;h3&gt;&lt;img src=&quot;/assets/img/posts/sublime-icon.jpg&quot; height=&quot;24px&quot; alt=&quot;Sublime&quot; /&gt; Sublime Text 3&lt;/h3&gt;
-      &lt;p&gt;Sublime Text is still my go to editor. It&#39;s lightness paired with it&#39;s speed and customizability makes it an absolute breeze to work with. In my opinion, the best editor available.&lt;/p&gt;
-      &lt;a href=&quot;http://www.sublimetext.com/&quot; class=&quot;btn three&quot; target=&quot;top&quot;&gt;Learn more about Sublime Text&lt;/a&gt;
-   &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;row&quot; style=&quot;background:#ffffff&quot;&gt;
-   &lt;div class=&quot;medium-6&quot; style=&quot;padding: 30px;&quot;&gt;
-      &lt;h3&gt;&lt;img src=&quot;/assets/img/posts/coda-icon.png&quot; height=&quot;24px&quot; alt=&quot;coda-2&quot; /&gt; Coda 2&lt;/h3&gt;
-      &lt;p&gt;I manage a few sites for a couple of my clients. Now and then they need a few lines of text updated on a static page. Coda allows me to edit the html files directly on the server. It&#39;s quick and dirty, and I like it.&lt;/p&gt;
-      &lt;a href=&quot;https://panic.com/coda/&quot; class=&quot;btn three&quot; target=&quot;top&quot;&gt;Learn more about Coda 2&lt;/a&gt;
-   &lt;/div&gt;
-   &lt;div class=&quot;medium-6&quot; style=&quot;padding: 30px;&quot;&gt;
-      &lt;h3&gt;&lt;img src=&quot;/assets/img/posts/iterm-icon.png&quot; height=&quot;24px&quot; alt=&quot;iterm2&quot; /&gt; iTerm&lt;/h3&gt;
-      &lt;p&gt;iTerm2 is a alternative to the native OS X terminal. It provides additional features, such as: split pane view, mouseless copy/paste, hotkey window for instant terminal anywhere and paste history, just to name a few. Overall a great terminal experience.&lt;/p&gt;
-      &lt;a href=&quot;https://www.iterm2.com/&quot; class=&quot;btn three&quot; target=&quot;top&quot;&gt;Learn more about iTerm 2&lt;/a&gt;
-   &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;row&quot; style=&quot;background:#ffffff&quot;&gt;
-   &lt;div class=&quot;medium-6&quot; style=&quot;padding: 30px;&quot;&gt;
-      &lt;h3&gt;&lt;img src=&quot;/assets/img/posts/github-desktop-icon.png&quot; height=&quot;24px&quot; alt=&quot;GitHub Desktop&quot; /&gt; GitHub Desktop&lt;/h3&gt;
-      &lt;p&gt;I use Github for almost all my projects. I&#39;ve found the Github Desktop app to suit my needs the best.&lt;/p&gt;
-      &lt;a href=&quot;https://desktop.github.com/&quot; class=&quot;btn three&quot; target=&quot;top&quot;&gt;Learn more about GitHub Desktop&lt;/a&gt;
-   &lt;/div&gt;
-   &lt;div class=&quot;medium-6&quot; style=&quot;padding: 30px;&quot;&gt;
-      &lt;h3&gt;&lt;img src=&quot;/assets/img/posts/codekit-icon.png&quot; height=&quot;24px&quot; alt=&quot;Codekit&quot; /&gt; Codekit&lt;/h3&gt;
-      &lt;p&gt;For all my personal projects I tend to use Codekit to compile my SASS, minify my JS and CSS and run Autoprefixer. However, for any team-based projects, I tend to use either Gulp or Grunt instead.&lt;/p&gt;
-      &lt;a href=&quot;https://incident57.com/codekit/&quot; class=&quot;btn three&quot; target=&quot;top&quot;&gt;Learn more about Codekit&lt;/a&gt;
-   &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;row&quot; style=&quot;background:#ffffff&quot;&gt;
-   &lt;div class=&quot;medium-6&quot; style=&quot;padding: 30px;&quot;&gt;
-      &lt;h3&gt;&lt;img src=&quot;/assets/img/posts/mamp-pro-icon.png&quot; height=&quot;24px&quot; alt=&quot;MAMP PRO&quot; /&gt; MAMP PRO&lt;/h3&gt;
-      &lt;p&gt;As I dabble in some backend development, and more specifically PHP. I&#39;ve found MAMP PRO to be the tool for quickly setting up an Apache webserver width PHP and often MySQL.&lt;/p&gt;
-      &lt;a href=&quot;https://www.mamp.info/en/mamp-pro/&quot; class=&quot;btn three&quot; target=&quot;top&quot;&gt;Learn more about MAMP PRO&lt;/a&gt;
-   &lt;/div&gt;
-   &lt;div class=&quot;medium-6&quot; style=&quot;padding: 30px;&quot;&gt;
-      &lt;h3&gt;&lt;img src=&quot;/assets/img/posts/sequel-pro-icon.png&quot; height=&quot;24px&quot; alt=&quot;Sequel Pro&quot; /&gt; Sequel Pro&lt;/h3&gt;
-      &lt;p&gt;When developing for a backend I often need to create and make changes to a database. Sequel Pro makes that super fast and easy.&lt;/p&gt;
-      &lt;a href=&quot;http://www.sequelpro.com/&quot; class=&quot;btn three&quot; target=&quot;top&quot;&gt;Learn more about Sequel Pro&lt;/a&gt;
-   &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;h1&gt;Video&lt;/h1&gt;
-&lt;p&gt;I use several tools&lt;/p&gt;
-
-&lt;div class=&quot;row&quot; style=&quot;background:#ffffff&quot;&gt;
-   &lt;div class=&quot;medium-6&quot; style=&quot;padding: 30px;&quot;&gt;
-      &lt;h3&gt;&lt;img src=&quot;/assets/img/posts/screenflow-icon.png&quot; height=&quot;24px&quot; alt=&quot;Screenflow&quot; /&gt; Screenflow&lt;/h3&gt;
-      &lt;p&gt;I record all my videos with Screenflow. Although I must admit I&#39;m no expert on the field I&#39;ve found it simple and easy to use. I suppose it does lack some functionality that I&#39;m sure other apps include. Nevertheless, it suits my needs just fine.&lt;/p&gt;
-      &lt;a href=&quot;http://www.telestream.net/screenflow/overview.htm&quot; class=&quot;btn three&quot; target=&quot;top&quot;&gt;Learn more about Screenflow&lt;/a&gt;
-   &lt;/div&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Sun, 25 Oct 2015 08:43:27 +0100</pubDate>
-        <link>//tristanwhite.info//articles/article/2015/10/25/the-tools-i-use.html</link>
-        <guid isPermaLink="true">//tristanwhite.info//articles/article/2015/10/25/the-tools-i-use.html</guid>
-        
-        
-        <category>articles</category>
-        
-        <category>article</category>
         
       </item>
     

@@ -116,6 +116,24 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
+	"\/_site\/article\/2015\/11\/10\/learn-to-learn.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/article\/2015\/11\/10\/learn-to-learn.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/article\/2015\/11\/10\/lets-encrypt.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/article\/2015\/11\/10\/lets-encrypt.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/articles\/2015\/11\/15\/sass-mixin-grid-system.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -358,6 +376,17 @@
 		"initialSize": 63673,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/qucik_code_price_table.png",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/qucik_code_price_table.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/qucik_code_responsive_navigation.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 61926,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/qucik_code_responsive_navigation.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/qucik_code_responsive_navigation.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -660,6 +689,60 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/store\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/video\/2015\/11\/26\/quick-code-animated-burger-menu.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/video\/2015\/11\/26\/quick-code-animated-burger-menu.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/video\/2015\/11\/26\/quick-code-bouncy-buttons.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/video\/2015\/11\/26\/quick-code-bouncy-buttons.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/video\/2015\/11\/26\/quick-code-css-timeline.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/video\/2015\/11\/26\/quick-code-css-timeline.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/video\/2015\/11\/26\/quick-code-ios-toggle-switch.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/video\/2015\/11\/26\/quick-code-ios-toggle-switch.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/video\/2015\/11\/26\/quick-code-price-table.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/video\/2015\/11\/26\/quick-code-price-table.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/video\/2015\/11\/26\/responsive-navigation.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/video\/2015\/11\/26\/responsive-navigation.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1164,6 +1247,17 @@
 		"initialSize": 63673,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/qucik_code_price_table.png",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/qucik_code_price_table.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/qucik_code_responsive_navigation.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 61926,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/qucik_code_responsive_navigation.png",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/qucik_code_responsive_navigation.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
