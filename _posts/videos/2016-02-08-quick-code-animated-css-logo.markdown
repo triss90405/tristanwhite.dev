@@ -1,11 +1,11 @@
 ---
 layout: video
 title: "Quick Code - Animated CSS Logo"
-date: 2015-11-26 10:33:27 +0100
+date: 2016-02-08 14:47:37 +0100
 categories: video
 thumbnail: assets/img/posts/quick_code_animated_css_logo.png
 time: "03:51"
-number: "Episode #6"
+number: "Episode #5"
 ---
 
 <div class="responsive-video">

@@ -6,9 +6,34 @@
 </description>
     <link>//tristanwhite.info//</link>
     <atom:link href="//tristanwhite.info//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 07 Feb 2016 13:55:46 +0100</pubDate>
-    <lastBuildDate>Sun, 07 Feb 2016 13:55:46 +0100</lastBuildDate>
+    <pubDate>Mon, 08 Feb 2016 14:50:00 +0100</pubDate>
+    <lastBuildDate>Mon, 08 Feb 2016 14:50:00 +0100</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
+    
+      <item>
+        <title>Quick Code - Animated CSS Logo</title>
+        <description>&lt;div class=&quot;responsive-video&quot;&gt;
+   &lt;iframe src=&quot;https://www.youtube.com/embed/bx5u81csniQ&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;the-code&quot;&gt;The code&lt;/h3&gt;
+
+&lt;p data-height=&quot;390&quot; data-theme-id=&quot;16012&quot; data-slug-hash=&quot;YwKgMB&quot; data-default-tab=&quot;result&quot; data-user=&quot;triss90&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;http://codepen.io/triss90/pen/YwKgMB/&quot;&gt;Animated CSS Logo&lt;/a&gt; by Tristan Oliver Mose Jensen White (&lt;a href=&quot;http://codepen.io/triss90&quot;&gt;@triss90&lt;/a&gt;) on &lt;a href=&quot;http://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
+&lt;script async=&quot;&quot; src=&quot;//assets.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;
+
+</description>
+        <pubDate>Mon, 08 Feb 2016 14:47:37 +0100</pubDate>
+        <link>//tristanwhite.info//videos/video/2016/02/08/quick-code-animated-css-logo.html</link>
+        <guid isPermaLink="true">//tristanwhite.info//videos/video/2016/02/08/quick-code-animated-css-logo.html</guid>
+        
+        
+        <category>videos</category>
+        
+        <category>video</category>
+        
+      </item>
     
       <item>
         <title>Quick Code - Modal</title>
