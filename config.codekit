@@ -116,24 +116,6 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
-	"\/_site\/article\/2015\/11\/10\/learn-to-learn.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/article\/2015\/11\/10\/learn-to-learn.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/article\/2015\/11\/10\/lets-encrypt.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/article\/2015\/11\/10\/lets-encrypt.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_site\/articles\/2015\/11\/15\/sass-mixin-grid-system.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -211,28 +193,6 @@
 		"initialSize": 160655,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/annettepetersen.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/annettepetersen.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/bg-icon.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 10025,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/bg-icon.png",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/bg-icon.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/bg-wireframe.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3659,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/bg-wireframe.png",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/bg-wireframe.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -545,11 +505,22 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/products\/bg-wireframe.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3659,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/products\/bg-wireframe.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/products\/bg-wireframe.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/products\/icon-pack.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 6052,
+		"initialSize": 80369,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/products\/icon-pack.png",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/products\/icon-pack.png",
 		"outputPathIsOutsideProject": 0,
@@ -689,60 +660,6 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/store\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/video\/2015\/11\/26\/quick-code-animated-burger-menu.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/video\/2015\/11\/26\/quick-code-animated-burger-menu.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/video\/2015\/11\/26\/quick-code-bouncy-buttons.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/video\/2015\/11\/26\/quick-code-bouncy-buttons.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/video\/2015\/11\/26\/quick-code-css-timeline.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/video\/2015\/11\/26\/quick-code-css-timeline.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/video\/2015\/11\/26\/quick-code-ios-toggle-switch.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/video\/2015\/11\/26\/quick-code-ios-toggle-switch.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/video\/2015\/11\/26\/quick-code-price-table.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/video\/2015\/11\/26\/quick-code-price-table.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/video\/2015\/11\/26\/responsive-navigation.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/video\/2015\/11\/26\/responsive-navigation.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1086,28 +1003,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/bg-icon.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 10025,
-		"inputAbbreviatedPath": "\/assets\/img\/bg-icon.png",
-		"outputAbbreviatedPath": "\/assets\/img\/bg-icon.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/bg-wireframe.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3659,
-		"inputAbbreviatedPath": "\/assets\/img\/bg-wireframe.png",
-		"outputAbbreviatedPath": "\/assets\/img\/bg-wireframe.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/assets\/img\/bg1.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1416,11 +1311,22 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/products\/bg-wireframe.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3659,
+		"inputAbbreviatedPath": "\/assets\/img\/products\/bg-wireframe.png",
+		"outputAbbreviatedPath": "\/assets\/img\/products\/bg-wireframe.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/products\/icon-pack.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 6052,
+		"initialSize": 80369,
 		"inputAbbreviatedPath": "\/assets\/img\/products\/icon-pack.png",
 		"outputAbbreviatedPath": "\/assets\/img\/products\/icon-pack.png",
 		"outputPathIsOutsideProject": 0,
