@@ -1859,7 +1859,7 @@ section#shop {
   padding-top: 50px; }
   section#shop .item {
     margin: 25px;
-    padding: 5px 0 20px 0;
+    padding: 0 0 20px 0;
     background: white;
     border: 1px solid #cbcbcd;
     border-radius: 3px;
