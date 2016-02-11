@@ -1877,9 +1877,11 @@ section#shop {
       top: 15px;
       right: -10px;
       padding: 8px;
-      width: 50px;
       height: 40px;
       box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5); }
+      section#shop .item .price span.old {
+        text-decoration: line-through;
+        color: #148f77; }
       section#shop .item .price:before {
         content: "";
         width: 0;
@@ -1888,7 +1890,7 @@ section#shop {
         border-bottom: 20px solid transparent;
         border-right: 20px solid #1ABC9C;
         position: absolute;
-        right: 50px;
+        left: -20px;
         top: 0px; }
       section#shop .item .price:after {
         content: "";
