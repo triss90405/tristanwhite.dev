@@ -1,11 +1,11 @@
 ---
 layout: video
 title: "Quick Code - iOS Toggle Switch"
-date: 2015-11-26 10:33:27 +0100
+date: 2016-02-15 07:37:46 +0100
 categories: video
 thumbnail: assets/img/posts/quick_code_ios_toggle_switch.png
 time: "02:54"
-number: "Episode #9"
+number: "Episode #6"
 ---
 
 <div class="responsive-video">
