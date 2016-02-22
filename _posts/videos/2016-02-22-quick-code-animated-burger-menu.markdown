@@ -1,7 +1,7 @@
 ---
 layout: video
 title: "Quick Code - Animated Burger Menu"
-date: 2015-11-26 10:33:27 +0100
+date: 2016-02-22 18:05:11 +0100
 categories: video
 thumbnail: assets/img/posts/quick_code_animated_burger_menu.png
 time: "02:07"
