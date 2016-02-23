@@ -1,12 +1,13 @@
 ---
 layout: post
 title: "Let's Encrypt your website"
-date: 2015-11-10 10:33:27 +0100
+date: 2016-02-23 07:36:27 +0100
 categories: article
 ---
 
 
-**Encryption is difficult!** I've never personally spent much time worrying about it. However, now that I'm offering products in my online store, it seemed only natural, that I at least encrypt the site.
+**Encryption is difficult!** I've never personally spent much time worrying about it. However, now that I'm offering products in my [online store](https://tristanwhite.info/store/), it seemed only natural, that I at least encrypt the site.
+
 
 
 <?xml version="1.0"?>
