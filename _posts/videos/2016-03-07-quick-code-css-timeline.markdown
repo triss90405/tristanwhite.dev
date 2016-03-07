@@ -1,11 +1,11 @@
 ---
 layout: video
 title: "Quick Code - CSS Timeline"
-date: 2015-11-26 10:33:27 +0100
+date: 2016-03-07 12:02:52 +0100
 categories: video
 thumbnail: assets/img/posts/quick_code_css_timeline.png
 time: "01:55"
-number: "Episode #8"
+number: "Episode #9"
 ---
 
 <div class="responsive-video">

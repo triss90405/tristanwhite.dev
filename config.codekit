@@ -359,6 +359,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/qucik_code_css_checkbox.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 61734,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/qucik_code_css_checkbox.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/qucik_code_css_checkbox.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/qucik_code_price_table.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -797,6 +808,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/videos\/video\/2016\/03\/07\/quick-code-css-timeline.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/videos\/video\/2016\/03\/07\/quick-code-css-timeline.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/articles.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1226,6 +1246,17 @@
 		"initialSize": 60137,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/qucik_code_animated_header.png",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/qucik_code_animated_header.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/qucik_code_css_checkbox.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 61734,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/qucik_code_css_checkbox.png",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/qucik_code_css_checkbox.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
