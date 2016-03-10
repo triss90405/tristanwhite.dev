@@ -1,6 +1,17 @@
 body {
    background: darken($white, 4%);
 }
+.overlay {
+  background: rgba(0,0,0,0.8);
+  height: 100vh;
+  width: 100vw;
+  z-index: 999;
+  position: fixed;
+  display: none;
+  &.on {
+    display: block;
+  }
+}
 .wrapper {
    margin: 0 0 0 200px;
    padding: 0;
