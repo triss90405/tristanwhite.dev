@@ -24,7 +24,8 @@ var modal = function() {
   var workItem = $('.work-item'),
       modal = $('.modal'),
       closeButton = $('.close'),
-      body = $('body');
+      body = $('body'),
+      esc = 27;
   // Open modal and disable body-scroll
   workItem.on('click', function(e) {
     e.preventDefault();
@@ -36,6 +37,12 @@ var modal = function() {
     e.preventDefault();
     $(this).parent(modal).removeClass('open');
     body.css('overflow', 'scroll');
+  });
+  $(document).keyup(function(e) {
+    if (e.keyCode == esc) {
+      modal.removeClass('open');
+      body.css('overflow', 'scroll');
+    }
   });
 };
 

@@ -1253,7 +1253,7 @@ header {
   section#intro {
     text-align: center; } }
 section#intro .header {
-  padding: 60px 60px 150px 60px;
+  padding: 60px 60px 150px;
   color: white;
   position: relative;
   background-color: #0577DA;
@@ -1262,7 +1262,7 @@ section#intro .header {
   background-size: auto; }
   @media (max-width: 772px) {
     section#intro .header {
-      padding: 75px 0 75px 0; } }
+      padding: 75px 0; } }
   section#intro .header h1 {
     font-size: 8rem; }
   section#intro .header h2 {
@@ -1294,7 +1294,9 @@ section#intro .header {
             -ms-transform: scale(0.9);
                 transform: scale(0.9);
         max-width: 100%; } }
-    section#intro .header #logo .cube-1, section#intro .header #logo .cube-2, section#intro .header #logo .cube-3 {
+    section#intro .header #logo .cube-1,
+    section#intro .header #logo .cube-2,
+    section#intro .header #logo .cube-3 {
       position: absolute;
       -webkit-transform-style: preserve-3d;
               transform-style: preserve-3d;
@@ -1304,7 +1306,9 @@ section#intro .header {
       bottom: 0;
       left: 0;
       right: 0; }
-      section#intro .header #logo .cube-1 .face, section#intro .header #logo .cube-2 .face, section#intro .header #logo .cube-3 .face {
+      section#intro .header #logo .cube-1 .face,
+      section#intro .header #logo .cube-2 .face,
+      section#intro .header #logo .cube-3 .face {
         height: 100%;
         left: 0;
         position: absolute;
@@ -1446,10 +1450,11 @@ section#about {
     section#about {
       text-align: center; } }
   section#about .intro-video {
-    padding: 0 0 150px 0; }
+    padding: 0 0 150px; }
     section#about .intro-video hr {
       margin: 50px 0; }
-    section#about .intro-video h1, section#about .intro-video h2 {
+    section#about .intro-video h1,
+    section#about .intro-video h2 {
       margin-top: 45px;
       text-align: center; }
     section#about .intro-video p {
@@ -1528,16 +1533,16 @@ section#work {
       -webkit-transition: all 150ms ease-in-out;
               transition: all 150ms ease-in-out; }
       section#work .work-item .work-item-img:hover {
-        box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.8); }
+        box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.8); }
   section#work h1 {
     text-align: center;
     color: white;
-    margin: 0 0 5rem 0; }
+    margin: 0 0 5rem; }
   section#work .modal {
     background: #FFFFFF;
     position: fixed;
     z-index: 1000;
-    top: 10vh;
+    top: calc(10vh + 150px);
     left: 10vw;
     width: 80vw;
     height: 80vh;
@@ -1545,12 +1550,17 @@ section#work {
     border-radius: 5px;
     box-shadow: 0 10px 30px rgba(25, 25, 26, 0.8);
     text-align: center;
-    display: none; }
+    opacity: 0;
+    visibility: hidden;
+    -webkit-transition: all 350ms ease-in-out;
+    transition: all 350ms ease-in-out; }
     section#work .modal img {
       max-width: calc(100% - 20px);
       margin: 10px; }
     section#work .modal.open {
-      display: block; }
+      opacity: 1;
+      visibility: visible;
+      top: 10vh; }
     @media (max-width: 772px) {
       section#work .modal {
         top: 10vh;
@@ -1581,7 +1591,7 @@ section#work {
     section#work .modal .title {
       color: #19191A;
       padding: 0;
-      margin: 50px 0 10px 0; }
+      margin: 50px 0 10px; }
       @media (max-width: 772px) {
         section#work .modal .title {
           font-size: 24px; } }
@@ -1604,17 +1614,21 @@ section#content {
     @media (max-width: 992px) {
       section#content:before {
         border-left: 100vw solid whitesmoke; } }
-  section#content .articles, section#content .videos {
+  section#content .articles,
+  section#content .videos {
     width: 100%;
     padding: 35px 15px; }
-    section#content .articles h1, section#content .videos h1 {
+    section#content .articles h1,
+    section#content .videos h1 {
       color: #19191A;
       font-weight: 300;
       text-align: center; }
     @media (max-width: 772px) {
-      section#content .articles, section#content .videos {
+      section#content .articles,
+      section#content .videos {
         width: 100%; } }
-    section#content .articles .btn, section#content .videos .btn {
+    section#content .articles .btn,
+    section#content .videos .btn {
       margin: 0 auto;
       display: block;
       width: 150px; }
@@ -1645,7 +1659,7 @@ section#content {
       -webkit-transition: all 150ms ease-in-out;
       transition: all 150ms ease-in-out; }
       section#content .videos a img:hover {
-        box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.3); }
+        box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.3); }
     section#content .videos a span.playtime {
       background: rgba(0, 0, 0, 0.5);
       color: white;
