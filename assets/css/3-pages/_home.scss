@@ -271,7 +271,10 @@ section#work {
     padding: 10%;
     margin: 0 auto;
     @media (max-width: 992px) {
-      padding: 10px 0;
+      margin: 10px 20px;
+    }
+    @media (max-width: 772px) {
+      display: none;
     }
   }
   .work-item {

@@ -1533,7 +1533,10 @@ section#work {
     margin: 0 auto; }
     @media (max-width: 992px) {
       section#work img.client-logo {
-        padding: 10px 0; } }
+        margin: 10px 20px; } }
+    @media (max-width: 772px) {
+      section#work img.client-logo {
+        display: none; } }
   section#work .work-item {
     padding: 10px;
     display: block; }
