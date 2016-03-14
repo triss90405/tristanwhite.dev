@@ -6,9 +6,34 @@
 </description>
     <link>//tristanwhite.info//</link>
     <atom:link href="//tristanwhite.info//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 13 Mar 2016 07:58:56 +0100</pubDate>
-    <lastBuildDate>Sun, 13 Mar 2016 07:58:56 +0100</lastBuildDate>
+    <pubDate>Mon, 14 Mar 2016 16:44:35 +0100</pubDate>
+    <lastBuildDate>Mon, 14 Mar 2016 16:44:35 +0100</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
+    
+      <item>
+        <title>Quick Code - Bouncy Buttons</title>
+        <description>&lt;div class=&quot;responsive-video&quot;&gt;
+   &lt;iframe src=&quot;https://www.youtube.com/embed/8IBHP8wXSwI&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;the-code&quot;&gt;The code&lt;/h3&gt;
+
+&lt;p data-height=&quot;268&quot; data-theme-id=&quot;16012&quot; data-slug-hash=&quot;rObrNK&quot; data-default-tab=&quot;result&quot; data-user=&quot;triss90&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;http://codepen.io/triss90/pen/rObrNK/&quot;&gt;Bouncy buttons&lt;/a&gt; by Tristan Oliver Mose Jensen White (&lt;a href=&quot;http://codepen.io/triss90&quot;&gt;@triss90&lt;/a&gt;) on &lt;a href=&quot;http://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
+&lt;script async=&quot;&quot; src=&quot;//assets.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;
+
+</description>
+        <pubDate>Mon, 14 Mar 2016 10:33:27 +0100</pubDate>
+        <link>//tristanwhite.info//videos/video/2016/03/14/quick-code-bouncy-buttons.html</link>
+        <guid isPermaLink="true">//tristanwhite.info//videos/video/2016/03/14/quick-code-bouncy-buttons.html</guid>
+        
+        
+        <category>videos</category>
+        
+        <category>video</category>
+        
+      </item>
     
       <item>
         <title>Quick Code - CSS Timeline</title>
@@ -379,31 +404,6 @@ $ cd letsencrypt&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;&lt;/p&gt;
         <category>articles</category>
         
         <category>article</category>
-        
-      </item>
-    
-      <item>
-        <title>Quick Code - CSS Heart</title>
-        <description>&lt;div class=&quot;responsive-video&quot;&gt;
-   &lt;iframe src=&quot;https://www.youtube.com/embed/D6wu65ucAkY&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;the-code&quot;&gt;The code&lt;/h3&gt;
-
-&lt;p data-height=&quot;450&quot; data-theme-id=&quot;16012&quot; data-slug-hash=&quot;jbXYdm&quot; data-default-tab=&quot;result&quot; data-user=&quot;triss90&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;http://codepen.io/triss90/pen/jbXYdm/&quot;&gt;CSS Heart&lt;/a&gt; by Tristan Oliver Mose Jensen White (&lt;a href=&quot;http://codepen.io/triss90&quot;&gt;@triss90&lt;/a&gt;) on &lt;a href=&quot;http://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
-&lt;script async=&quot;&quot; src=&quot;//assets.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;
-
-</description>
-        <pubDate>Tue, 17 Nov 2015 13:11:53 +0100</pubDate>
-        <link>//tristanwhite.info//videos/video/2015/11/17/quick-code-css-heart.html</link>
-        <guid isPermaLink="true">//tristanwhite.info//videos/video/2015/11/17/quick-code-css-heart.html</guid>
-        
-        
-        <category>videos</category>
-        
-        <category>video</category>
         
       </item>
     

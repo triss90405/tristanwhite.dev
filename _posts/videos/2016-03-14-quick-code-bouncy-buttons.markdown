@@ -1,11 +1,11 @@
 ---
 layout: video
 title: "Quick Code - Bouncy Buttons"
-date: 2015-11-26 10:33:27 +0100
+date: 2016-03-14 10:33:27 +0100
 categories: video
 thumbnail: assets/img/posts/quick_code_bouncy_buttons.png
 time: "03:42"
-number: "Episode #5"
+number: "Episode #13"
 ---
 
 <div class="responsive-video">
