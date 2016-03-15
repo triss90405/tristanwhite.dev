@@ -249,6 +249,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/branding\/logo_color.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11137,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/branding\/logo_color.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/branding\/logo_color.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/branding\/logo_color_flat.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10894,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/branding\/logo_color_flat.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/branding\/logo_color_flat.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/atom-icon.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -744,6 +766,15 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/_site\/branding\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/branding\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/google9a2ba4a21ba11ef5.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1055,6 +1086,22 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/assets\/css\/3-pages\/_branding.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/css\/3-pages\/_branding.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/css\/_branding.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
 	"\/assets\/css\/3-pages\/_footer.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -1173,6 +1220,28 @@
 		"initialSize": 29749,
 		"inputAbbreviatedPath": "\/assets\/img\/bg3.png",
 		"outputAbbreviatedPath": "\/assets\/img\/bg3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/branding\/logo_color.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11137,
+		"inputAbbreviatedPath": "\/assets\/img\/branding\/logo_color.png",
+		"outputAbbreviatedPath": "\/assets\/img\/branding\/logo_color.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/branding\/logo_color_flat.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10894,
+		"inputAbbreviatedPath": "\/assets\/img\/branding\/logo_color_flat.png",
+		"outputAbbreviatedPath": "\/assets\/img\/branding\/logo_color_flat.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1671,6 +1740,15 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
+		},
+	"\/branding.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/branding.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/google9a2ba4a21ba11ef5.html": {
 		"fileType": 8192,

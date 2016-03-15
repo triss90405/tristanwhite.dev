@@ -1952,3 +1952,15 @@ section#shop {
     section#shop .item .description {
       padding: 20px;
       color: #97979b; }
+
+section#branding {
+  text-align: center; }
+  section#branding h1 {
+    margin: 50px; }
+  section#branding .logo {
+    padding: 50px;
+    text-align: center; }
+    section#branding .logo img {
+      max-width: 100%; }
+    section#branding .logo p {
+      color: #97979b; }

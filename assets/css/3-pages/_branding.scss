@@ -1,0 +1,16 @@
+section#branding {
+  text-align: center;
+  h1 {
+    margin: 50px;
+  }
+  .logo {
+    padding: 50px;
+    text-align: center;
+    img {
+      max-width: 100%;
+    }
+    p {
+      color: lighten($black, 50%);
+    }
+  }
+}
