@@ -590,17 +590,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/assets\/img\/products\/bg-wireframe.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3659,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/products\/bg-wireframe.png",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/products\/bg-wireframe.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/_site\/assets\/img\/products\/icon-pack.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -612,24 +601,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/assets\/img\/products\/wireframe-ui-kit-2.png": {
+	"\/_site\/assets\/img\/products\/wireframe.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 22690,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/products\/wireframe-ui-kit-2.png",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/products\/wireframe-ui-kit-2.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/products\/wireframe-ui-kit.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 10538,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/products\/wireframe-ui-kit.png",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/products\/wireframe-ui-kit.png",
+		"initialSize": 26122,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/products\/wireframe.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/products\/wireframe.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1565,17 +1543,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/products\/bg-wireframe.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3659,
-		"inputAbbreviatedPath": "\/assets\/img\/products\/bg-wireframe.png",
-		"outputAbbreviatedPath": "\/assets\/img\/products\/bg-wireframe.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/assets\/img\/products\/icon-pack.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1587,24 +1554,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/products\/wireframe-ui-kit-2.png": {
+	"\/assets\/img\/products\/wireframe.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 22690,
-		"inputAbbreviatedPath": "\/assets\/img\/products\/wireframe-ui-kit-2.png",
-		"outputAbbreviatedPath": "\/assets\/img\/products\/wireframe-ui-kit-2.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/products\/wireframe-ui-kit.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 10538,
-		"inputAbbreviatedPath": "\/assets\/img\/products\/wireframe-ui-kit.png",
-		"outputAbbreviatedPath": "\/assets\/img\/products\/wireframe-ui-kit.png",
+		"initialSize": 26122,
+		"inputAbbreviatedPath": "\/assets\/img\/products\/wireframe.png",
+		"outputAbbreviatedPath": "\/assets\/img\/products\/wireframe.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
