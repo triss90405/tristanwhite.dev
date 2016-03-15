@@ -1736,6 +1736,9 @@ a#contact {
 
 #article-overview {
   background: whitesmoke; }
+  #article-overview h1 {
+    text-align: center;
+    margin-top: 70px; }
   @media (max-width: 992px) {
     #article-overview {
       padding: 50px 0 0 0; } }
@@ -1752,8 +1755,8 @@ a#contact {
       text-align: center;
       font-weight: bold; }
     #article-overview article .date {
-      font-size: 2rem;
-      font-weight: 500;
+      font-size: 1.8rem;
+      font-weight: 100;
       color: #cccccc; }
     #article-overview article .excerpt {
       font-size: 2rem; }
@@ -1845,6 +1848,8 @@ a#contact {
 section#videos {
   padding-top: 75px;
   background: whitesmoke; }
+  section#videos h1 {
+    text-align: center; }
   section#videos .excerpt .responsive-video  {
     margin: 0 !important; }
   section#videos .video-title {
@@ -1894,6 +1899,8 @@ footer {
 
 section#shop {
   padding-top: 50px; }
+  section#shop h1 {
+    text-align: center; }
   section#shop .item {
     margin: 25px;
     padding: 0 0 20px 0;
