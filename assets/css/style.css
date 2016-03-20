@@ -1211,7 +1211,7 @@ header {
   .toggle-menu span, .toggle-menu span:before, .toggle-menu span:after {
     -webkit-transition: all 150ms ease-in-out;
     transition: all 150ms ease-in-out;
-    display: block;
+    display: inline-block;
     height: 3px;
     width: 40px;
     background-color: #0577DA;
@@ -1229,12 +1229,10 @@ header {
     .toggle-menu.cross span:before {
       top: 0;
       -webkit-transform: rotate(45deg);
-          -ms-transform: rotate(45deg);
               transform: rotate(45deg); }
     .toggle-menu.cross span:after {
       bottom: 0;
       -webkit-transform: rotate(-45deg);
-          -ms-transform: rotate(-45deg);
               transform: rotate(-45deg); }
   @media (max-width: 992px) {
     .toggle-menu {
@@ -1297,12 +1295,10 @@ section#intro .header {
     padding: 0;
     margin: 75px auto;
     -webkit-transform: scale(1.3);
-        -ms-transform: scale(1.3);
             transform: scale(1.3); }
     @media (max-width: 772px) {
       section#intro .header #logo {
         -webkit-transform: scale(0.9);
-            -ms-transform: scale(0.9);
                 transform: scale(0.9);
         max-width: 100%; } }
     section#intro .header #logo .cube-1,
@@ -1477,7 +1473,6 @@ section#about {
       section#about .intro-video .current svg {
         opacity: 0.4;
         -webkit-transform: scale(0.7);
-            -ms-transform: scale(0.7);
                 transform: scale(0.7); }
       section#about .intro-video .current p {
         margin: 5%; }
@@ -1545,7 +1540,7 @@ section#work {
       max-width: 100%;
       border-radius: 3px;
       -webkit-transition: all 150ms ease-in-out;
-              transition: all 150ms ease-in-out; }
+      transition: all 150ms ease-in-out; }
       section#work .work-item .work-item-img:hover {
         box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.8); }
   section#work h1 {
@@ -1599,7 +1594,7 @@ section#work {
         color: #19191A;
         text-decoration: none;
         -webkit-transition: color 150ms ease-in-out;
-                transition: color 150ms ease-in-out;
+        transition: color 150ms ease-in-out;
         padding: 10px 15px;
         cursor: pointer; }
         section#work .modal .close a:hover {

@@ -2,7 +2,7 @@
 layout: video
 title: "Quick Code - iOS Toggle Switch"
 date: 2016-02-15 07:37:46 +0100
-categories: video
+categories: videos
 thumbnail: assets/img/posts/quick_code_ios_toggle_switch.png
 time: "02:54"
 number: "Episode #6"

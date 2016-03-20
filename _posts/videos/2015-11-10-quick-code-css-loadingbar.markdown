@@ -2,7 +2,7 @@
 layout: video
 title: "Quick Code - CSS Loadingbar"
 date: 2015-11-10 10:33:27 +0100
-categories: video
+categories: videos
 thumbnail: assets/img/posts/quick_code_css_loadingbar.png
 time: "03:39"
 number: "Episode #1"

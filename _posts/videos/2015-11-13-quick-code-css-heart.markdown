@@ -2,7 +2,7 @@
 layout: video
 title: "Quick Code - CSS Heart"
 date: 2015-11-17 13:11:53 +0100
-categories: video
+categories: videos
 thumbnail: assets/img/posts/quick_code_css_heart.png
 time: "03:39"
 number: "Episode #3"

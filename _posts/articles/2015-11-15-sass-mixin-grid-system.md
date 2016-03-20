@@ -2,7 +2,7 @@
 layout: post
 title: "Sass Mixin Grid system"
 date: 2015-11-15 10:33:27 +0100
-categories: article
+categories: articles
 ---
 
 Regular CSS grid systems have many upsides, but certainly a few downsides as well. One of the bigger downsides is that you often end up with one <code>div</code> with a ton of class. This makes the markup clumsy and unreadable! To combat this I've made a SCSS Mixin grid system. It's modular, simple and incredibly easy to use.

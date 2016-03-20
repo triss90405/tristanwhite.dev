@@ -2,7 +2,7 @@
 layout: post
 title: "The Tools I Use"
 date: 2015-10-25 08:43:27 +0100
-categories: article
+categories: articles
 ---
 
 This article is a brief overview of the tools i use personally and professionally when designing and coding websites and apps.

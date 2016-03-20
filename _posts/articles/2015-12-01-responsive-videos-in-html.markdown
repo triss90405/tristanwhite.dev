@@ -2,7 +2,7 @@
 layout: post
 title:  "Responsive Videos in html"
 date:   2015-12-1 13:51:12 +0100
-categories: article
+categories: articles
 ---
 
 I happened upon an effective way of making videos responsive, and immediately implemented it on this site. Try resizing the window, to see the video beneath, adjust to the width of the page, while remaining its aspect ratio.

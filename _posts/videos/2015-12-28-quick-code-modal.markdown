@@ -2,7 +2,7 @@
 layout: video
 title: "Quick Code - Modal"
 date: 2015-12-28 08:42:13 +0100
-categories: video
+categories: videos
 thumbnail: assets/img/posts/quick_code_modal.png
 time: "05:00"
 number: "Episode #4"

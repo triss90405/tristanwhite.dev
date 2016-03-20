@@ -2,7 +2,7 @@
 layout: video
 title: "Quick Code - Animated Burger Menu"
 date: 2016-02-22 18:05:11 +0100
-categories: video
+categories: videos
 thumbnail: assets/img/posts/quick_code_animated_burger_menu.png
 time: "02:07"
 number: "Episode #7"

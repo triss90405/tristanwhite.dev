@@ -2,7 +2,7 @@
 layout: post
 title: "Let's Encrypt your website"
 date: 2016-02-23 07:36:27 +0100
-categories: article
+categories: articles
 ---
 
 

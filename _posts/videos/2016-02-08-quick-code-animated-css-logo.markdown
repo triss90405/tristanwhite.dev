@@ -2,7 +2,7 @@
 layout: video
 title: "Quick Code - Animated CSS Logo"
 date: 2016-02-08 14:47:37 +0100
-categories: video
+categories: videos
 thumbnail: assets/img/posts/quick_code_animated_css_logo.png
 time: "03:51"
 number: "Episode #5"

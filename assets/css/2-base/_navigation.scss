@@ -72,7 +72,7 @@ header {
    background: rgba($white,.85);
    span, span:before, span:after {
       @include transition(150ms);
-      display: block;
+      display: inline-block;
       height: 3px;
       width: 40px;
       background-color: $blue;
@@ -82,7 +82,7 @@ header {
          top: -12px;
       }
       &:after {
-         bottom: -12px
+         bottom: -12px;
       }
    }
    &.cross {

@@ -10,7 +10,7 @@ permalink: /articles/
       <div class="row">
          <div class="tiny-10 tiny-offset-1">
 
-            {% for post in site.categories.article %}
+            {% for post in site.categories.articles %}
             <article>
                <div class="title"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></div>
                <div class="date">{{ post.date | date: "%b %-d, %Y" }}</div>
