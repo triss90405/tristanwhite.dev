@@ -78,12 +78,13 @@ header {
       background-color: $blue;
       content: '';
       position: absolute;
-      &:before {
-         top: -12px;
-      }
-      &:after {
-         bottom: -12px;
-      }
+
+   }
+   span:before {
+      top: -12px;
+   }
+   span:after {
+      bottom: -12px;
    }
    &.cross {
       span, span:before, span:after {

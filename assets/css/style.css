@@ -1217,10 +1217,10 @@ header {
     background-color: #0577DA;
     content: '';
     position: absolute; }
-    .toggle-menu span:before, .toggle-menu span:before:before, .toggle-menu span:after:before {
-      top: -12px; }
-    .toggle-menu span:after, .toggle-menu span:before:after, .toggle-menu span:after:after {
-      bottom: -12px; }
+  .toggle-menu span:before {
+    top: -12px; }
+  .toggle-menu span:after {
+    bottom: -12px; }
   .toggle-menu.cross span, .toggle-menu.cross span:before, .toggle-menu.cross span:after {
     -webkit-transition: all 150ms ease-in-out;
     transition: all 150ms ease-in-out; }
