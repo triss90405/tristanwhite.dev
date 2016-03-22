@@ -1,9 +1,9 @@
 ---
 layout: video
 title: "Quick Code - Responsive Navigation"
-date: 2015-11-26 10:33:27 +0100
-categories: video
-thumbnail: assets/img/posts/qucik_code_responsive_navigation.png
+date: 2016-03-22 07:01:42 +0100
+categories: videos
+thumbnail: assets/img/posts/quick_code_responsive_navigation.png
 time: "03:25"
 number: "Episode #11"
 ---

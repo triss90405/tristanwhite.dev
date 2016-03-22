@@ -2,7 +2,7 @@
 layout: post
 title: "Learn to learn"
 date: 2015-11-10 10:33:27 +0100
-categories: article
+categories: articles
 ---
 
 **Learn** - *to gain knowledge or skill by studying, practicing, being taught, or experiencing something.*

@@ -2,7 +2,7 @@
 layout: video
 title: "Quick Code - Fluid Navigation"
 date: 2015-04-04 09:32:51 +0100
-categories: video
+categories: videos
 thumbnail: assets/img/posts/quick_code_fluid_navigation.png
 time: "04:04"
 number: "Episode #13"

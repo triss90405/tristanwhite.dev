@@ -352,50 +352,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/assets\/img\/posts\/qucik_code_animated_header.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 60137,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/qucik_code_animated_header.png",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/qucik_code_animated_header.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/qucik_code_css_checkbox.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 61734,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/qucik_code_css_checkbox.png",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/qucik_code_css_checkbox.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/qucik_code_price_table.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 63673,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/qucik_code_price_table.png",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/qucik_code_price_table.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/qucik_code_responsive_navigation.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 61926,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/qucik_code_responsive_navigation.png",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/qucik_code_responsive_navigation.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/_site\/assets\/img\/posts\/quick_code_animated_burger_menu.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -418,6 +374,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/quick_code_animated_header.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 60137,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/quick_code_animated_header.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/quick_code_animated_header.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/quick_code_bouncy_buttons.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -436,6 +403,17 @@
 		"initialSize": 59773,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/quick_code_css_3d_buttons.png",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/quick_code_css_3d_buttons.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/quick_code_css_checkbox.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 61734,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/quick_code_css_checkbox.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/quick_code_css_checkbox.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -502,6 +480,28 @@
 		"initialSize": 71190,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/quick_code_modal.png",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/quick_code_modal.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/quick_code_price_table.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 63673,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/quick_code_price_table.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/quick_code_price_table.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/quick_code_responsive_navigation.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 61926,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/quick_code_responsive_navigation.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/quick_code_responsive_navigation.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1327,50 +1327,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/posts\/qucik_code_animated_header.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 60137,
-		"inputAbbreviatedPath": "\/assets\/img\/posts\/qucik_code_animated_header.png",
-		"outputAbbreviatedPath": "\/assets\/img\/posts\/qucik_code_animated_header.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/posts\/qucik_code_css_checkbox.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 61734,
-		"inputAbbreviatedPath": "\/assets\/img\/posts\/qucik_code_css_checkbox.png",
-		"outputAbbreviatedPath": "\/assets\/img\/posts\/qucik_code_css_checkbox.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/posts\/qucik_code_price_table.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 63673,
-		"inputAbbreviatedPath": "\/assets\/img\/posts\/qucik_code_price_table.png",
-		"outputAbbreviatedPath": "\/assets\/img\/posts\/qucik_code_price_table.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/posts\/qucik_code_responsive_navigation.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 61926,
-		"inputAbbreviatedPath": "\/assets\/img\/posts\/qucik_code_responsive_navigation.png",
-		"outputAbbreviatedPath": "\/assets\/img\/posts\/qucik_code_responsive_navigation.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/assets\/img\/posts\/quick_code_animated_burger_menu.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1393,6 +1349,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/quick_code_animated_header.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 60137,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/quick_code_animated_header.png",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/quick_code_animated_header.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/quick_code_bouncy_buttons.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1411,6 +1378,17 @@
 		"initialSize": 59773,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/quick_code_css_3d_buttons.png",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/quick_code_css_3d_buttons.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/quick_code_css_checkbox.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 61734,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/quick_code_css_checkbox.png",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/quick_code_css_checkbox.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1477,6 +1455,28 @@
 		"initialSize": 71190,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/quick_code_modal.png",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/quick_code_modal.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/quick_code_price_table.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 63673,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/quick_code_price_table.png",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/quick_code_price_table.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/quick_code_responsive_navigation.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 61926,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/quick_code_responsive_navigation.png",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/quick_code_responsive_navigation.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

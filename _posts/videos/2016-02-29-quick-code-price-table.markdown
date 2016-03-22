@@ -3,7 +3,7 @@ layout: video
 title: "Quick Code - Price Table"
 date: 2016-02-29 08:16:27 +0100
 categories: videos
-thumbnail: assets/img/posts/qucik_code_price_table.png
+thumbnail: assets/img/posts/quick_code_price_table.png
 time: "04:09"
 number: "Episode #8"
 ---

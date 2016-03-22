@@ -2,8 +2,8 @@
 layout: video
 title: "Quick Code - Animated Header"
 date: 2015-02-28 15:23:21 +0100
-categories: video
-thumbnail: assets/img/posts/qucik_code_animated_header.png
+categories: videos
+thumbnail: assets/img/posts/quick_code_animated_header.png
 time: "02:06"
 number: "Episode #12"
 ---

@@ -2,8 +2,8 @@
 layout: video
 title: "Quick Code - Fluid Navigation"
 date: 2016-04-11 09:32:51 +0100
-categories: video
-thumbnail: assets/img/posts/qucik_code_simple_slider.png
+categories: videos
+thumbnail: assets/img/posts/quick_code_simple_slider.png
 time: "05:50"
 number: "Episode #13"
 ---
