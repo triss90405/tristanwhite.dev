@@ -1,6 +1,6 @@
 ---
 layout: video
-title: "Quick Code - Fluid Navigation"
+title: "Quick Code - Simple jQuery Slider"
 date: 2016-04-18 09:32:51 +0100
 categories: videos
 thumbnail: assets/img/posts/quick_code_simple_slider.png

@@ -1,6 +1,6 @@
 ---
 layout: video
-title: "Quick Code - Fluid Navigation"
+title: "Quick Code - Rotating CSS Loader"
 date: 2016-05-02 09:32:51 +0100
 categories: videos
 thumbnail: assets/img/posts/quick_code_rotating_css_loader.png

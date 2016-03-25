@@ -1,6 +1,6 @@
 ---
 layout: video
-title: "Quick Code - Fluid Navigation"
+title: "Quick Code - Animated Signature"
 date: 2016-04-15 09:32:51 +0100
 categories: videos
 thumbnail: assets/img/posts/quick_code_animated_signature.png
