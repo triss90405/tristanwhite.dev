@@ -1,7 +1,7 @@
 ---
 layout: video
 title: "Quick Code - Fluid Navigation"
-date: 2016-04-18 09:32:51 +0100
+date: 2016-04-15 09:32:51 +0100
 categories: videos
 thumbnail: assets/img/posts/quick_code_animated_signature.png
 time: "02:07"
