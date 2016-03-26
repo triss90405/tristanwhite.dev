@@ -1898,7 +1898,7 @@ section#shop {
   section#shop h1 {
     text-align: center; }
   section#shop .item {
-    margin: 25px;
+    margin: 45px 25px;
     padding: 0 0 20px 0;
     background: white;
     border: 1px solid #cbcbcd;
