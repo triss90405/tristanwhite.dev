@@ -3,6 +3,11 @@ section#shop {
   h1 {
     text-align: center;
   }
+  .tiny-12 {
+    @media (max-width: 772px) {
+      margin: -23px 0;
+    }
+  }
    .item {
       margin: 45px 25px;
       padding: 0 0 20px 0;
