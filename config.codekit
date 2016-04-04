@@ -137,6 +137,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/articles\/2015\/11\/10\/learn-to-learn.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/articles\/2015\/11\/10\/learn-to-learn.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/articles\/2015\/11\/15\/sass-mixin-grid-system.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -164,20 +173,20 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/articles\/2016\/04\/03\/vpn-and-geo-location.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/articles\/2016\/04\/03\/vpn-and-geo-location.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/articles\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/articles\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/assets\/css\/style.css": {
-		"fileType": 16,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/assets\/css\/style.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -264,6 +273,72 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/browser-chrome.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6068,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/browser-chrome.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/browser-chrome.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/browser-edge.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6245,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/browser-edge.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/browser-edge.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/browser-firefox.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5340,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/browser-firefox.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/browser-firefox.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/browser-ie.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5742,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/browser-ie.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/browser-ie.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/browser-opera.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4412,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/browser-opera.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/browser-opera.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/browser-safari.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14199,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/browser-safari.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/browser-safari.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/coda-icon.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -282,6 +357,17 @@
 		"initialSize": 9094,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/codekit-icon.png",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/codekit-icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/geolocation.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 166496,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/geolocation.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/geolocation.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -817,6 +903,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/videos\/2015\/04\/04\/quick-code-fluid-navigation.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/videos\/2015\/04\/04\/quick-code-fluid-navigation.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/videos\/2015\/11\/10\/quick-code-css-loadingbar.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1290,6 +1385,72 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/browser-chrome.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6068,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/browser-chrome.png",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/browser-chrome.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/browser-edge.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6245,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/browser-edge.png",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/browser-edge.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/browser-firefox.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5340,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/browser-firefox.png",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/browser-firefox.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/browser-ie.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5742,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/browser-ie.png",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/browser-ie.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/browser-opera.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4412,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/browser-opera.png",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/browser-opera.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/browser-safari.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14199,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/browser-safari.png",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/browser-safari.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/coda-icon.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1308,6 +1469,17 @@
 		"initialSize": 9094,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/codekit-icon.png",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/codekit-icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/geolocation.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 166496,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/geolocation.png",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/geolocation.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
