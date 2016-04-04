@@ -30,13 +30,16 @@ After a bit of research it occurred to me that most browsers are configured to u
 3. Double click the "geo.enabled" item. This will change the status and value to false.
 
 #### <img src="{{ site.baseurl }}/assets/img/posts/browser-ie.png" alt="Internet Explorer" width="18px"> IE
+1. Open the tools menu by clicking on the gear menu in the top right hand corner.
+2. Click on the "Privacy" tab.
+3. Under "Location", select "Never Allow Websites To Request Your Physical Location".
 
 #### <img src="{{ site.baseurl }}/assets/img/posts/browser-edge.png" alt="Edge" width="18px"> Edge
+1. Click on the action center icon on your taskbar.
+2. Select the Location quick action to turn location off.
 
 #### <img src="{{ site.baseurl }}/assets/img/posts/browser-opera.png" alt="Opera" width="18px"> Opera
 1. Open Opera Preferences.
 2. Click "Websites" in the left menu.
 3. Scroll down to "Location".
 4. Click Do not allow any site to track my physical location.
-
-https://www.ivpn.net/knowledgebase/150/My-real-location-is-detected-when-connected-to-VPN-How-to-disable-geolocation.html
