@@ -5,9 +5,32 @@
     <description>Hi! My name is Tristan White, I&#39;m a designer, developer and somewhat unicorn-like. I was born and raised in a small town in Denmark. Today I am proud to call myself a full-stack web developer. I love making beautiful, yet practical websites and applications.</description>
     <link>//tristanwhite.info//</link>
     <atom:link href="//tristanwhite.info//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 04 Apr 2016 14:49:25 +0200</pubDate>
-    <lastBuildDate>Mon, 04 Apr 2016 14:49:25 +0200</lastBuildDate>
+    <pubDate>Mon, 04 Apr 2016 16:27:15 +0200</pubDate>
+    <lastBuildDate>Mon, 04 Apr 2016 16:27:15 +0200</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Quick Code - Fluid Navigation</title>
+        <description>&lt;div class=&quot;responsive-video&quot;&gt;
+   &lt;iframe src=&quot;https://www.youtube.com/embed/QeBBMw78EWc&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;the-code&quot;&gt;The code&lt;/h3&gt;
+
+&lt;p data-height=&quot;368&quot; data-theme-id=&quot;16012&quot; data-slug-hash=&quot;GZKRJo&quot; data-default-tab=&quot;result&quot; data-user=&quot;triss90&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;http://codepen.io/triss90/pen/GZKRJo/&quot;&gt;Fluid CSS Navigation&lt;/a&gt; by Tristan Oliver Mose Jensen White (&lt;a href=&quot;http://codepen.io/triss90&quot;&gt;@triss90&lt;/a&gt;) on &lt;a href=&quot;http://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
+&lt;script async=&quot;&quot; src=&quot;//assets.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;
+
+</description>
+        <pubDate>Mon, 04 Apr 2016 10:32:51 +0200</pubDate>
+        <link>//tristanwhite.info//videos/2016/04/04/quick-code-fluid-navigation.html</link>
+        <guid isPermaLink="true">//tristanwhite.info//videos/2016/04/04/quick-code-fluid-navigation.html</guid>
+        
+        
+        <category>videos</category>
+        
+      </item>
     
       <item>
         <title>VPN &amp; GEO-Location</title>
@@ -298,29 +321,6 @@ $ cd letsencrypt&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
         <pubDate>Mon, 15 Feb 2016 07:37:46 +0100</pubDate>
         <link>//tristanwhite.info//videos/2016/02/15/quick-code-ios-toggle-switch.html</link>
         <guid isPermaLink="true">//tristanwhite.info//videos/2016/02/15/quick-code-ios-toggle-switch.html</guid>
-        
-        
-        <category>videos</category>
-        
-      </item>
-    
-      <item>
-        <title>Quick Code - Animated CSS Logo</title>
-        <description>&lt;div class=&quot;responsive-video&quot;&gt;
-   &lt;iframe src=&quot;https://www.youtube.com/embed/bx5u81csniQ&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;the-code&quot;&gt;The code&lt;/h3&gt;
-
-&lt;p data-height=&quot;390&quot; data-theme-id=&quot;16012&quot; data-slug-hash=&quot;YwKgMB&quot; data-default-tab=&quot;result&quot; data-user=&quot;triss90&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;http://codepen.io/triss90/pen/YwKgMB/&quot;&gt;Animated CSS Logo&lt;/a&gt; by Tristan Oliver Mose Jensen White (&lt;a href=&quot;http://codepen.io/triss90&quot;&gt;@triss90&lt;/a&gt;) on &lt;a href=&quot;http://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
-&lt;script async=&quot;&quot; src=&quot;//assets.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;
-
-</description>
-        <pubDate>Mon, 08 Feb 2016 14:47:37 +0100</pubDate>
-        <link>//tristanwhite.info//videos/2016/02/08/quick-code-animated-css-logo.html</link>
-        <guid isPermaLink="true">//tristanwhite.info//videos/2016/02/08/quick-code-animated-css-logo.html</guid>
         
         
         <category>videos</category>
