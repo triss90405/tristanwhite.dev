@@ -13,4 +13,28 @@ section#about-page {
   svg {
     transform: scale(0.7);
   }
+  .box {
+    background: darken($white, 7%);
+    margin: 10px;
+    padding: 10px;
+  }
+  .stat {
+    border-right: 1px solid darken($white, 12%);
+    &:nth-child(4n+1) {
+      border: 0;
+    }
+    @media (max-width: 992px) {
+      &:nth-child(2n+1) {
+        border: 0;
+      }
+    }
+    p.emph {
+      font-size: 60px;
+      line-height: 60px;
+      margin: 0;
+      padding: 0;
+      font-weight: bold;
+      color: darken($white, 12%);
+    }
+  }
 }
