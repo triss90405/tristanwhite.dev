@@ -45,7 +45,7 @@ var modal = function() {
     body.css('overflow', 'scroll');
   });
   $(document).keyup(function(e) {
-    if (e.keyCode == esc) {
+    if (e.keyCode === esc) {
       modal.removeClass('open');
       overlay.removeClass('on');
       body.css('overflow', 'scroll');
