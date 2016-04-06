@@ -1476,7 +1476,7 @@ section#about {
     section#about .intro-video .current {
       text-align: center; }
       section#about .intro-video .current svg {
-        opacity: 0.4;
+        opacity: 1;
         -webkit-transform: scale(0.7);
                 transform: scale(0.7); }
       section#about .intro-video .current p {
@@ -1975,3 +1975,17 @@ section#branding {
       max-width: 100%; }
     section#branding .logo p {
       color: #97979b; }
+
+section#about-page {
+  padding-top: 75px;
+  background: whitesmoke;
+  text-align: center; }
+  section#about-page h1 {
+    text-align: center; }
+  section#about-page p {
+    font-size: 2rem;
+    text-align: center;
+    color: #7d7d82; }
+  section#about-page svg {
+    -webkit-transform: scale(0.7);
+            transform: scale(0.7); }

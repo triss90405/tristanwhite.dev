@@ -1,0 +1,16 @@
+section#about-page {
+  padding-top: 75px;
+  background: darken($white, 4%);
+  text-align: center;
+  h1 {
+    text-align: center;
+  }
+  p {
+    font-size: 2rem;
+    text-align: center;
+    color: lighten($black, 40%);
+  }
+  svg {
+    transform: scale(0.7);
+  }
+}
