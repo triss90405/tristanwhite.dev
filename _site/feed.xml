@@ -5,9 +5,32 @@
     <description>Hi! My name is Tristan White, I&#39;m a designer, developer and somewhat unicorn-like. I was born and raised in a small town in Denmark. Today I am proud to call myself a full-stack web developer. I love making beautiful, yet practical websites and applications.</description>
     <link>//tristanwhite.info//</link>
     <atom:link href="//tristanwhite.info//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 07 Apr 2016 13:12:36 +0200</pubDate>
-    <lastBuildDate>Thu, 07 Apr 2016 13:12:36 +0200</lastBuildDate>
+    <pubDate>Mon, 11 Apr 2016 11:00:28 +0200</pubDate>
+    <lastBuildDate>Mon, 11 Apr 2016 11:00:28 +0200</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Quick Code - CSS Checkbox</title>
+        <description>&lt;div class=&quot;responsive-video&quot;&gt;
+   &lt;iframe src=&quot;https://www.youtube.com/embed/kCqwXRdPOMg&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;the-code&quot;&gt;The code&lt;/h3&gt;
+
+&lt;p data-height=&quot;268&quot; data-theme-id=&quot;16012&quot; data-slug-hash=&quot;mPVmwR&quot; data-default-tab=&quot;result&quot; data-user=&quot;triss90&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;http://codepen.io/triss90/pen/mPVmwR/&quot;&gt;CSS Checkbox&lt;/a&gt; by Tristan Oliver Mose Jensen White (&lt;a href=&quot;http://codepen.io/triss90&quot;&gt;@triss90&lt;/a&gt;) on &lt;a href=&quot;http://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
+&lt;script async=&quot;&quot; src=&quot;//assets.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;
+
+</description>
+        <pubDate>Mon, 11 Apr 2016 10:32:51 +0200</pubDate>
+        <link>//tristanwhite.info//videos/2016/04/11/quick-code-css-checkbox.html</link>
+        <guid isPermaLink="true">//tristanwhite.info//videos/2016/04/11/quick-code-css-checkbox.html</guid>
+        
+        
+        <category>videos</category>
+        
+      </item>
     
       <item>
         <title>VPN &amp; GEO-Location</title>
@@ -305,29 +328,6 @@ $ cd letsencrypt&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
         <pubDate>Mon, 22 Feb 2016 18:05:11 +0100</pubDate>
         <link>//tristanwhite.info//videos/2016/02/22/quick-code-animated-burger-menu.html</link>
         <guid isPermaLink="true">//tristanwhite.info//videos/2016/02/22/quick-code-animated-burger-menu.html</guid>
-        
-        
-        <category>videos</category>
-        
-      </item>
-    
-      <item>
-        <title>Quick Code - iOS Toggle Switch</title>
-        <description>&lt;div class=&quot;responsive-video&quot;&gt;
-   &lt;iframe src=&quot;https://www.youtube.com/embed/68Lntu0Ts_I&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;the-code&quot;&gt;The code&lt;/h3&gt;
-
-&lt;p data-height=&quot;240&quot; data-theme-id=&quot;16012&quot; data-slug-hash=&quot;eJzOdz&quot; data-default-tab=&quot;result&quot; data-user=&quot;triss90&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;http://codepen.io/triss90/pen/eJzOdz/&quot;&gt;iOS Toggle Switch&lt;/a&gt; by Tristan Oliver Mose Jensen White (&lt;a href=&quot;http://codepen.io/triss90&quot;&gt;@triss90&lt;/a&gt;) on &lt;a href=&quot;http://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
-&lt;script async=&quot;&quot; src=&quot;//assets.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;
-
-</description>
-        <pubDate>Mon, 15 Feb 2016 07:37:46 +0100</pubDate>
-        <link>//tristanwhite.info//videos/2016/02/15/quick-code-ios-toggle-switch.html</link>
-        <guid isPermaLink="true">//tristanwhite.info//videos/2016/02/15/quick-code-ios-toggle-switch.html</guid>
         
         
         <category>videos</category>
