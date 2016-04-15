@@ -545,6 +545,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/quick_code_css_battery_loader.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18303,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/quick_code_css_battery_loader.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/quick_code_css_battery_loader.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/quick_code_css_checkbox.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1687,6 +1698,17 @@
 		"initialSize": 20886,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/quick_code_css_3d_buttons.png",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/quick_code_css_3d_buttons.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/quick_code_css_battery_loader.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18303,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/quick_code_css_battery_loader.png",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/quick_code_css_battery_loader.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
