@@ -4,7 +4,7 @@ title: "Quick Code - CSS Battery Loader"
 date: 2016-05-16 09:32:51 +0100
 categories: videos
 thumbnail: assets/img/posts/quick_code_css_battery_loader.png
-time: "03:32"
+time: "02:51"
 number: "Episode #19"
 ---
 
