@@ -655,6 +655,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/quick_code_pulsing_css_loader.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26725,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/quick_code_pulsing_css_loader.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/quick_code_pulsing_css_loader.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/quick_code_responsive_navigation.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1819,6 +1830,17 @@
 		"initialSize": 25964,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/quick_code_price_table.png",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/quick_code_price_table.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/quick_code_pulsing_css_loader.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26725,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/quick_code_pulsing_css_loader.png",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/quick_code_pulsing_css_loader.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
