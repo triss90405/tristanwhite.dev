@@ -1,7 +1,7 @@
 ---
 layout: video
 title: "Quick Code - Simple jQuery Slider"
-date: 2016-04-18 09:32:51 +0100
+date: 2016-04-18 14:02:00 +0100
 categories: videos
 thumbnail: assets/img/posts/quick_code_simple_slider.png
 time: "05:50"
