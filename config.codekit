@@ -1112,6 +1112,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/videos\/2016\/04\/25\/quick-code-animated-signature.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/videos\/2016\/04\/25\/quick-code-animated-signature.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/videos\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
