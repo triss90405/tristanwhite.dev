@@ -212,15 +212,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/assets\/css\/style.css": {
-		"fileType": 16,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/assets\/css\/style.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_site\/assets\/css\/style.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -798,6 +789,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/products\/pug_poster_preview.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.94689e+06,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/products\/pug_poster_preview.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/products\/pug_poster_preview.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/products\/wireframe.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -805,6 +807,17 @@
 		"initialSize": 26122,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/products\/wireframe.png",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/products\/wireframe.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/products\/work_hard_preview.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.0299e+06,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/products\/work_hard_preview.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/products\/work_hard_preview.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2006,6 +2019,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/products\/pug_poster_preview.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.94689e+06,
+		"inputAbbreviatedPath": "\/assets\/img\/products\/pug_poster_preview.png",
+		"outputAbbreviatedPath": "\/assets\/img\/products\/pug_poster_preview.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/products\/wireframe.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -2013,6 +2037,17 @@
 		"initialSize": 26122,
 		"inputAbbreviatedPath": "\/assets\/img\/products\/wireframe.png",
 		"outputAbbreviatedPath": "\/assets\/img\/products\/wireframe.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/products\/work_hard_preview.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.0299e+06,
+		"inputAbbreviatedPath": "\/assets\/img\/products\/work_hard_preview.png",
+		"outputAbbreviatedPath": "\/assets\/img\/products\/work_hard_preview.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
