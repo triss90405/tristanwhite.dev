@@ -5,9 +5,32 @@
     <description>Hi! My name is Tristan White, I&#39;m a designer, developer and somewhat unicorn-like. I was born and raised in a small town in Denmark. Today I am proud to call myself a full-stack web developer. I love making beautiful, yet practical websites and applications.</description>
     <link>//tristanwhite.info//</link>
     <atom:link href="//tristanwhite.info//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 01 May 2016 08:39:44 +0200</pubDate>
-    <lastBuildDate>Sun, 01 May 2016 08:39:44 +0200</lastBuildDate>
+    <pubDate>Mon, 02 May 2016 14:23:40 +0200</pubDate>
+    <lastBuildDate>Mon, 02 May 2016 14:23:40 +0200</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Quick Code - Rotating CSS Loader</title>
+        <description>&lt;div class=&quot;responsive-video&quot;&gt;
+   &lt;iframe src=&quot;https://www.youtube.com/embed/ns-7c4aVk9k&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;the-code&quot;&gt;The code&lt;/h3&gt;
+
+&lt;p data-height=&quot;268&quot; data-theme-id=&quot;16012&quot; data-slug-hash=&quot;YqVbXp&quot; data-default-tab=&quot;result&quot; data-user=&quot;triss90&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;http://codepen.io/triss90/pen/YqVbXp/&quot;&gt;Rotating CSS Loader&lt;/a&gt; by Tristan Oliver Mose Jensen White (&lt;a href=&quot;http://codepen.io/triss90&quot;&gt;@triss90&lt;/a&gt;) on &lt;a href=&quot;http://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
+&lt;script async=&quot;&quot; src=&quot;//assets.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;
+
+</description>
+        <pubDate>Mon, 02 May 2016 10:32:51 +0200</pubDate>
+        <link>//tristanwhite.info//videos/2016/05/02/quick-code-rotating-css-loader.html</link>
+        <guid isPermaLink="true">//tristanwhite.info//videos/2016/05/02/quick-code-rotating-css-loader.html</guid>
+        
+        
+        <category>videos</category>
+        
+      </item>
     
       <item>
         <title>Quick Code - Animated Signature</title>
@@ -249,29 +272,6 @@
         <pubDate>Mon, 07 Mar 2016 12:02:52 +0100</pubDate>
         <link>//tristanwhite.info//videos/2016/03/07/quick-code-css-timeline.html</link>
         <guid isPermaLink="true">//tristanwhite.info//videos/2016/03/07/quick-code-css-timeline.html</guid>
-        
-        
-        <category>videos</category>
-        
-      </item>
-    
-      <item>
-        <title>Quick Code - Price Table</title>
-        <description>&lt;div class=&quot;responsive-video&quot;&gt;
-   &lt;iframe src=&quot;https://www.youtube.com/embed/CIPW6o5RHLQ&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;the-code&quot;&gt;The code&lt;/h3&gt;
-
-&lt;p data-height=&quot;710&quot; data-theme-id=&quot;16012&quot; data-slug-hash=&quot;wMKmWr&quot; data-default-tab=&quot;result&quot; data-user=&quot;triss90&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;http://codepen.io/triss90/pen/wMKmWr/&quot;&gt;Price table&lt;/a&gt; by Tristan Oliver Mose Jensen White (&lt;a href=&quot;http://codepen.io/triss90&quot;&gt;@triss90&lt;/a&gt;) on &lt;a href=&quot;http://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
-&lt;script async=&quot;&quot; src=&quot;//assets.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;
-
-</description>
-        <pubDate>Mon, 29 Feb 2016 08:16:27 +0100</pubDate>
-        <link>//tristanwhite.info//videos/2016/02/29/quick-code-price-table.html</link>
-        <guid isPermaLink="true">//tristanwhite.info//videos/2016/02/29/quick-code-price-table.html</guid>
         
         
         <category>videos</category>
