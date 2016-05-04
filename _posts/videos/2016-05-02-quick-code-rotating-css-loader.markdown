@@ -2,10 +2,10 @@
 layout: video
 title: "Quick Code - Rotating CSS Loader"
 date: 2016-05-02 09:32:51 +0100
-categories: videos
+categories: videos quick-code
 thumbnail: assets/img/posts/quick_code_rotating_css_loader.png
 time: "02:07"
-number: "Episode #17"
+number: "17"
 ---
 
 <div class="responsive-video">

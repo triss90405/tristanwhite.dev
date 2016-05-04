@@ -2,10 +2,10 @@
 layout: video
 title: "Quick Code - CSS 3D Buttons"
 date: 2015-11-13 21:12:53 +0100
-categories: videos
+categories: videos quick-code
 thumbnail: assets/img/posts/quick_code_css_3d_buttons.png
 time: "03:39"
-number: "Episode #2"
+number: "2"
 ---
 
 <div class="responsive-video">

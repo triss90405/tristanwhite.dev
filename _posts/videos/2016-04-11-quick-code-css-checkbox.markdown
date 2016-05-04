@@ -2,10 +2,10 @@
 layout: video
 title: "Quick Code - CSS Checkbox"
 date: 2016-04-11 09:32:51 +0100
-categories: videos
+categories: videos quick-code
 thumbnail: assets/img/posts/quick_code_css_checkbox.png
 time: "02:58"
-number: "Episode #14"
+number: "14"
 ---
 
 <div class="responsive-video">

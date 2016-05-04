@@ -2,10 +2,10 @@
 layout: video
 title: "Quick Code - Animated Signature"
 date: 2016-04-25 09:32:51 +0100
-categories: videos
+categories: videos quick-code
 thumbnail: assets/img/posts/quick_code_animated_signature.png
 time: "02:07"
-number: "Episode #16"
+number: "16"
 ---
 
 <div class="responsive-video">

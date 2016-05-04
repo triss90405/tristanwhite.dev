@@ -2,10 +2,10 @@
 layout: video
 title: "Quick Code - Animated Header"
 date: 2016-03-28 11:23:21 +0100
-categories: videos
+categories: videos quick-code
 thumbnail: assets/img/posts/quick_code_animated_header.png
 time: "02:06"
-number: "Episode #12"
+number: "12"
 ---
 
 <div class="responsive-video">

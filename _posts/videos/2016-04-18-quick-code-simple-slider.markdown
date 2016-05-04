@@ -2,10 +2,10 @@
 layout: video
 title: "Quick Code - Simple jQuery Slider"
 date: 2016-04-18 14:02:00 +0100
-categories: videos
+categories: videos quick-code
 thumbnail: assets/img/posts/quick_code_simple_slider.png
 time: "05:50"
-number: "Episode #15"
+number: "15"
 ---
 
 <div class="responsive-video">

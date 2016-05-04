@@ -2,10 +2,10 @@
 layout: video
 title: "Quick Code - Responsive Navigation"
 date: 2016-03-22 07:01:42 +0100
-categories: videos
+categories: videos quick-code
 thumbnail: assets/img/posts/quick_code_responsive_navigation.png
 time: "03:25"
-number: "Episode #11"
+number: "11"
 ---
 
 <div class="responsive-video">
