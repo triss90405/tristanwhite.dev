@@ -1,11 +1,11 @@
 ---
 layout: video
 title: "Quick Code - Basic Flexbox Grid"
-date: 2016-05-09 09:32:51 +0100
-categories: videos
+date: 2016-05-09 10:26:11 +0100
+categories: videos quick-code
 thumbnail: assets/img/posts/quick_code_basic_flexbox_grid.png
 time: "03:32"
-number: "Episode #18"
+number: "18"
 ---
 
 <div class="responsive-video">

@@ -5,9 +5,34 @@
     <description>Hi! My name is Tristan White, I&#39;m a designer, developer and somewhat unicorn-like. I was born and raised in a small town in Denmark. Today I am proud to call myself a full-stack web developer. I love making beautiful, yet practical websites and applications.</description>
     <link>//tristanwhite.info//</link>
     <atom:link href="//tristanwhite.info//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 09 May 2016 12:14:09 +0200</pubDate>
-    <lastBuildDate>Mon, 09 May 2016 12:14:09 +0200</lastBuildDate>
+    <pubDate>Mon, 09 May 2016 12:22:43 +0200</pubDate>
+    <lastBuildDate>Mon, 09 May 2016 12:22:43 +0200</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Quick Code - Basic Flexbox Grid</title>
+        <description>&lt;div class=&quot;responsive-video&quot;&gt;
+   &lt;iframe src=&quot;https://www.youtube.com/embed/gy6WKhMLNIA&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;the-code&quot;&gt;The code&lt;/h3&gt;
+
+&lt;p data-height=&quot;268&quot; data-theme-id=&quot;16012&quot; data-slug-hash=&quot;eZWagq&quot; data-default-tab=&quot;result&quot; data-user=&quot;triss90&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;https://codepen.io/triss90/pen/eZWagq/&quot;&gt;Basic Flexbox Grid&lt;/a&gt; by Tristan Oliver Mose Jensen White (&lt;a href=&quot;http://codepen.io/triss90&quot;&gt;@triss90&lt;/a&gt;) on &lt;a href=&quot;http://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
+&lt;script async=&quot;&quot; src=&quot;//assets.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;
+
+</description>
+        <pubDate>Mon, 09 May 2016 11:26:11 +0200</pubDate>
+        <link>//tristanwhite.info//videos/quick-code/2016/05/09/quick-code-basic-flexbox-grid.html</link>
+        <guid isPermaLink="true">//tristanwhite.info//videos/quick-code/2016/05/09/quick-code-basic-flexbox-grid.html</guid>
+        
+        
+        <category>videos</category>
+        
+        <category>quick-code</category>
+        
+      </item>
     
       <item>
         <title>Quick Code - Rotating CSS Loader</title>
@@ -263,31 +288,6 @@
         <pubDate>Mon, 14 Mar 2016 10:33:27 +0100</pubDate>
         <link>//tristanwhite.info//videos/quick-code/2016/03/14/quick-code-bouncy-buttons.html</link>
         <guid isPermaLink="true">//tristanwhite.info//videos/quick-code/2016/03/14/quick-code-bouncy-buttons.html</guid>
-        
-        
-        <category>videos</category>
-        
-        <category>quick-code</category>
-        
-      </item>
-    
-      <item>
-        <title>Quick Code - CSS Timeline</title>
-        <description>&lt;div class=&quot;responsive-video&quot;&gt;
-   &lt;iframe src=&quot;https://www.youtube.com/embed/3qNgNs_ziJk&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;the-code&quot;&gt;The code&lt;/h3&gt;
-
-&lt;p data-height=&quot;350&quot; data-theme-id=&quot;16012&quot; data-slug-hash=&quot;RraEmM&quot; data-default-tab=&quot;result&quot; data-user=&quot;triss90&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;http://codepen.io/triss90/pen/RraEmM/&quot;&gt;CSS Timeline&lt;/a&gt; by Tristan Oliver Mose Jensen White (&lt;a href=&quot;http://codepen.io/triss90&quot;&gt;@triss90&lt;/a&gt;) on &lt;a href=&quot;http://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
-&lt;script async=&quot;&quot; src=&quot;//assets.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;
-
-</description>
-        <pubDate>Mon, 07 Mar 2016 12:02:52 +0100</pubDate>
-        <link>//tristanwhite.info//videos/quick-code/2016/03/07/quick-code-css-timeline.html</link>
-        <guid isPermaLink="true">//tristanwhite.info//videos/quick-code/2016/03/07/quick-code-css-timeline.html</guid>
         
         
         <category>videos</category>
