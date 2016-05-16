@@ -1019,6 +1019,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/videos\/2016\/05\/16\/quick-code-css-battery-loader.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/videos\/2016\/05\/16\/quick-code-css-battery-loader.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/videos\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
