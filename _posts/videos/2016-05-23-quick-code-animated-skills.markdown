@@ -5,7 +5,7 @@ date: 2016-05-23 07:15:51 +0100
 categories: videos quick-code
 thumbnail: assets/img/posts/quick_code_animated_skills.png
 time: "02:51"
-number: "Episode #20"
+number: "20"
 ---
 
 <div class="responsive-video">
