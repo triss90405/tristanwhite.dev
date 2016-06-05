@@ -1834,6 +1834,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/quick_code_another_responsive_menu.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26307,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/quick_code_another_responsive_menu.png",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/quick_code_another_responsive_menu.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/quick_code_basic_flexbox_grid.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1878,6 +1889,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/quick_code_css_cards.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25664,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/quick_code_css_cards.png",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/quick_code_css_cards.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/quick_code_css_checkbox.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1896,6 +1918,17 @@
 		"initialSize": 20876,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/quick_code_css_heart.png",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/quick_code_css_heart.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/quick_code_css_loader_2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19036,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/quick_code_css_loader_2.png",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/quick_code_css_loader_2.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1955,6 +1988,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/quick_code_off_canvas_navigation.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31001,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/quick_code_off_canvas_navigation.png",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/quick_code_off_canvas_navigation.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/quick_code_price_table.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1973,6 +2017,17 @@
 		"initialSize": 26725,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/quick_code_pulsing_css_loader.png",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/quick_code_pulsing_css_loader.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/quick_code_responsive_css_web_browser.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 54175,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/quick_code_responsive_css_web_browser.png",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/quick_code_responsive_css_web_browser.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
