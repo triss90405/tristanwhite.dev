@@ -5,9 +5,34 @@
     <description>Hi! My name is Tristan White, I&#39;m a designer, developer and somewhat unicorn-like. I was born and raised in a small town in Denmark. Today I am proud to call myself a full-stack web developer. I love making beautiful, yet practical websites and applications.</description>
     <link>//tristanwhite.info//</link>
     <atom:link href="//tristanwhite.info//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 13 Jun 2016 06:10:46 +0200</pubDate>
-    <lastBuildDate>Mon, 13 Jun 2016 06:10:46 +0200</lastBuildDate>
+    <pubDate>Mon, 20 Jun 2016 15:10:01 +0200</pubDate>
+    <lastBuildDate>Mon, 20 Jun 2016 15:10:01 +0200</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Quick Code - Another Responsive Menu</title>
+        <description>&lt;div class=&quot;responsive-video&quot;&gt;
+   &lt;iframe src=&quot;https://www.youtube.com/embed/Hy-Oc1OkdL4&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;the-code&quot;&gt;The code&lt;/h3&gt;
+
+&lt;p data-height=&quot;300&quot; data-theme-id=&quot;16012&quot; data-slug-hash=&quot;pyqxjE&quot; data-default-tab=&quot;result&quot; data-user=&quot;triss90&quot; data-embed-version=&quot;2&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;http://codepen.io/triss90/pen/pyqxjE/&quot;&gt;Another Responsive Menu&lt;/a&gt; by Tristan  White (&lt;a href=&quot;http://codepen.io/triss90&quot;&gt;@triss90&lt;/a&gt;) on &lt;a href=&quot;http://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
+&lt;script async=&quot;&quot; src=&quot;//assets.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;
+
+</description>
+        <pubDate>Mon, 20 Jun 2016 14:17:09 +0200</pubDate>
+        <link>//tristanwhite.info//videos/quick-code/2016/06/20/quick-code-another-responsive-menu.html</link>
+        <guid isPermaLink="true">//tristanwhite.info//videos/quick-code/2016/06/20/quick-code-another-responsive-menu.html</guid>
+        
+        
+        <category>videos</category>
+        
+        <category>quick-code</category>
+        
+      </item>
     
       <item>
         <title>Quick Code - Scaling CSS Loader</title>
@@ -23,7 +48,7 @@
 &lt;script async=&quot;&quot; src=&quot;//assets.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;
 
 </description>
-        <pubDate>Mon, 13 Jun 2016 05:17:09 +0200</pubDate>
+        <pubDate>Mon, 13 Jun 2016 14:09:19 +0200</pubDate>
         <link>//tristanwhite.info//videos/quick-code/2016/06/13/quick-code-scaling-csss-loader.html</link>
         <guid isPermaLink="true">//tristanwhite.info//videos/quick-code/2016/06/13/quick-code-scaling-csss-loader.html</guid>
         
@@ -226,31 +251,6 @@
         <pubDate>Mon, 18 Apr 2016 15:02:00 +0200</pubDate>
         <link>//tristanwhite.info//videos/quick-code/2016/04/18/quick-code-simple-slider.html</link>
         <guid isPermaLink="true">//tristanwhite.info//videos/quick-code/2016/04/18/quick-code-simple-slider.html</guid>
-        
-        
-        <category>videos</category>
-        
-        <category>quick-code</category>
-        
-      </item>
-    
-      <item>
-        <title>Quick Code - CSS Checkbox</title>
-        <description>&lt;div class=&quot;responsive-video&quot;&gt;
-   &lt;iframe src=&quot;https://www.youtube.com/embed/kCqwXRdPOMg&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;the-code&quot;&gt;The code&lt;/h3&gt;
-
-&lt;p data-height=&quot;268&quot; data-theme-id=&quot;16012&quot; data-slug-hash=&quot;mPVmwR&quot; data-default-tab=&quot;result&quot; data-user=&quot;triss90&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;http://codepen.io/triss90/pen/mPVmwR/&quot;&gt;CSS Checkbox&lt;/a&gt; by Tristan Oliver Mose Jensen White (&lt;a href=&quot;http://codepen.io/triss90&quot;&gt;@triss90&lt;/a&gt;) on &lt;a href=&quot;http://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
-&lt;script async=&quot;&quot; src=&quot;//assets.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;
-
-</description>
-        <pubDate>Mon, 11 Apr 2016 10:32:51 +0200</pubDate>
-        <link>//tristanwhite.info//videos/quick-code/2016/04/11/quick-code-css-checkbox.html</link>
-        <guid isPermaLink="true">//tristanwhite.info//videos/quick-code/2016/04/11/quick-code-css-checkbox.html</guid>
         
         
         <category>videos</category>

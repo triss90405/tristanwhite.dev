@@ -1,7 +1,7 @@
 ---
 layout: video
 title: "Quick Code - Another Responsive Menu"
-date: 2016-05-20 09:17:09 +0100
+date: 2016-06-20 13:17:09 +0100
 categories: videos quick-code
 thumbnail: assets/img/posts/quick_code_another_responsive_menu.png
 time: "03:27"
